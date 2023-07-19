@@ -1,0 +1,34 @@
+header {
+  margin-bottom: 4rem;
+}
+
+.boards-list {
+  list-style: none;
+  padding-left: 0;
+
+  display: flex;
+  justify-content: center;
+}
+
+.boards-list-item {
+  margin-right: 1rem;
+}
+
+.boards-link {
+  text-decoration: none;
+  opacity: 0.75;
+}
+
+.boards-link:hover {
+  opacity: 1;
+}
+
+.board-title {
+  text-align: center;
+  margin-block: 2rem;
+}
+
+.board-title a {
+  text-decoration: none;
+  color: white;
+}

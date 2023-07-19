@@ -1,0 +1,40 @@
+.options-menu {
+  display: flex;
+
+  border-block: 2px dashed dimgrey;
+  padding-block: 0.45em;
+}
+
+.options-menu > * {
+  flex-basis: 100%;
+}
+
+.info-menu,
+.settings-menu,
+.search-menu {
+  display: flex;
+}
+
+.search-menu {
+  place-content: center;
+}
+
+.settings-menu {
+  place-content: end;
+}
+
+.info-menu li {
+  margin-right: 1rem;
+}
+
+.info-menu li:first-child {
+  margin-left: 0.5rem;
+}
+
+.settings-menu li {
+  margin-left: 1rem;
+}
+
+.settings-menu li:last-child {
+  margin-right: 0.5rem;
+}

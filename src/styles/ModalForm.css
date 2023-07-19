@@ -1,0 +1,35 @@
+.form-control {
+  margin-block: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form-control > label {
+  font-weight: bold;
+  margin-bottom: 0.25em;
+}
+
+.form-control input,
+.form-control textarea {
+  width: 100%;
+}
+
+.form-control input[type="file"] {
+  padding: 0;
+}
+
+.form-submit-menu {
+  display: flex;
+  justify-content: flex-end;
+}
+
+/*
+.form-submit-menu > button {
+  background-color: seagreen;
+}
+
+.form-submit-menu > button:hover {
+  background-color: lightseagreen;
+}

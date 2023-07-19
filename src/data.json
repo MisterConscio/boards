@@ -1,0 +1,2751 @@
+[
+  {
+    "no": 94682366,
+    "now": "07/14/23(Fri)06:53:28",
+    "name": "Anonymous",
+    "sub": "/wdg/ - Web Development General:",
+    "com": "Web edition<br><br><span class=\"quote\">&gt;Free beginner resources to get started with HTML, CSS, JavaScript and PHP</span><br>https://eloquentjavascript.net/Eloq<wbr>uent_JavaScript.pdf - A modern introduction to JavaScript<br>https://developer.mozilla.org/en-US<wbr>/docs/Learn - A good starting point to learn about web dev fundamentals<br>https://javascript.info/ - Quite a good JS tutorial<br>https://blog.javascripttoday.com - Awesome JavaScript/web dev blog.<br>https://www.theodinproject.com - Curriculum including HTML/CSS/JS, and either Ruby on Rails + SQL, or Node.js + MongoDB<br>https://fullstackopen.com/en/ - Requires you to have basic web dev, db and git knowledge<br>https://flexboxfroggy.com/ and https://cssgridgarden.com/ - Learn flex/grid in CSS<br>https://www.phptutorial.net - A PHP tutorial<br><br><span class=\"quote\">&gt;List of design resources</span><br>https://github.com/bradtraversy/des<wbr>ign-resources-for-developers<br><br><span class=\"quote\">&gt;All useful documentation in one place</span><br>https://devdocs.io<br><br><span class=\"quote\">&gt;Need help? Create an example and post the link</span><br>https://jsfiddle.net - if you need help with HTML/CSS/JS<br>https://3v4l.org - if you need help with PHP/HackLang<br>https://codesandbox.io - if you need help with React/Angular/Vue<br><br>We have our own website: https://wdg.one<br>Submit your project progress updates using this format in your posts, the scraper will pick it up:<br><br><pre class=\"prettyprint\">:: my-project-title ::<br>dev:: anon<br>tools:: PHP, MySQL, etc.<br>link:: https://my.website.com<br>repo:: https://github.com/user/repo<br>progress:: Lorem ipsum dolor sit amet<br></pre><br><br>Previous: <a href=\"/g/thread/94619551#p94619551\" class=\"quotelink\">&gt;&gt;94619551</a>",
+    "filename": "web",
+    "ext": ".jpg",
+    "w": 4928,
+    "h": 3264,
+    "tn_w": 250,
+    "tn_h": 165,
+    "tim": 1689332008482523,
+    "time": 1689332008,
+    "md5": "dmaXFWK54gzYsrPfWORLpw==",
+    "fsize": 3645486,
+    "resto": 0,
+    "bumplimit": 0,
+    "imagelimit": 0,
+    "semantic_url": "wdg-web-development-general",
+    "replies": 300,
+    "images": 36,
+    "unique_ips": 99,
+    "tail_size": 50
+  },
+  {
+    "no": 94682393,
+    "now": "07/14/23(Fri)06:55:26",
+    "name": "Anonymous",
+    "com": "tailwind kills little toddlers",
+    "time": 1689332126,
+    "resto": 94682366
+  },
+  {
+    "no": 94682430,
+    "now": "07/14/23(Fri)06:58:00",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682393\" class=\"quotelink\">&gt;&gt;94682393</a><br>Failwind is troonsoft",
+    "time": 1689332280,
+    "resto": 94682366
+  },
+  {
+    "no": 94682452,
+    "now": "07/14/23(Fri)06:59:52",
+    "name": "Anonymous",
+    "com": "What resources from OP did you even use and can approve of?",
+    "time": 1689332392,
+    "resto": 94682366
+  },
+  {
+    "no": 94682572,
+    "now": "07/14/23(Fri)07:10:50",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682452\" class=\"quotelink\">&gt;&gt;94682452</a><br>MDN is the holy grail of webdev documentation<br>I&#039;ve JSfiddled and CodeSandboxed once in a blue moon<br>The games flexbox froggy and css garden are cute :3",
+    "time": 1689333050,
+    "resto": 94682366
+  },
+  {
+    "no": 94682594,
+    "now": "07/14/23(Fri)07:12:39",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682366\" class=\"quotelink\">&gt;&gt;94682366</a><br>Is 4search the most successful /g/ project?<br>https://wdg.one/projects/77",
+    "filename": "1689333110591",
+    "ext": ".png",
+    "w": 1182,
+    "h": 902,
+    "tn_w": 125,
+    "tn_h": 95,
+    "tim": 1689333159607262,
+    "time": 1689333159,
+    "md5": "HEhgJ3jfRN2vJ29icCmxQA==",
+    "fsize": 142814,
+    "resto": 94682366
+  },
+  {
+    "no": 94682731,
+    "now": "07/14/23(Fri)07:24:10",
+    "name": "Anonymous",
+    "com": "Is it over if my website doesn&#039;t have an SSL certificate?",
+    "time": 1689333850,
+    "resto": 94682366
+  },
+  {
+    "no": 94682741,
+    "now": "07/14/23(Fri)07:24:44",
+    "name": "Anonymous",
+    "com": "tailwind is based",
+    "time": 1689333884,
+    "resto": 94682366
+  },
+  {
+    "no": 94682748,
+    "now": "07/14/23(Fri)07:25:22",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682741\" class=\"quotelink\">&gt;&gt;94682741</a><br>FAILWIND IS CRINGE",
+    "time": 1689333922,
+    "resto": 94682366
+  },
+  {
+    "no": 94682896,
+    "now": "07/14/23(Fri)07:38:00",
+    "name": "Anonymous",
+    "com": "i actually tried tailwind with Skeleton UI and kinda liked it. before that i was bulma only, but bulma doesn&#039;t have anywhere near the extensibility (no shit because tailwind is just css)<br><br>i am converted",
+    "time": 1689334680,
+    "resto": 94682366
+  },
+  {
+    "no": 94683045,
+    "now": "07/14/23(Fri)07:50:17",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682896\" class=\"quotelink\">&gt;&gt;94682896</a><br>how do you like skeleton ui? seems like it and melt ui are the two ui libs to use, but something about skeleton felt off, idk if its animations or not",
+    "time": 1689335417,
+    "resto": 94682366
+  },
+  {
+    "no": 94683063,
+    "now": "07/14/23(Fri)07:52:03",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683045\" class=\"quotelink\">&gt;&gt;94683045</a><br>actually alright so far, i picked Skeleton because it has &quot;AppShell&quot; and &quot;AppBar&quot;. from what i can tell it&#039;s a lot more batteries included than Melt UI",
+    "time": 1689335523,
+    "resto": 94682366
+  },
+  {
+    "no": 94683319,
+    "now": "07/14/23(Fri)08:12:25",
+    "name": "Anonymous",
+    "com": "What did you mfs get paid at your first job",
+    "time": 1689336745,
+    "resto": 94682366
+  },
+  {
+    "no": 94683468,
+    "now": "07/14/23(Fri)08:22:21",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682572\" class=\"quotelink\">&gt;&gt;94682572</a><br>Currently doing foundations on the odin project, css froggy and mdn docs are also helpful!",
+    "time": 1689337341,
+    "resto": 94682366
+  },
+  {
+    "no": 94683591,
+    "now": "07/14/23(Fri)08:30:47",
+    "name": "Anonymous",
+    "com": "it&#039;s been over a year since I started teaching myself web dev and I still don&#039;t have a job. Got to the final stages twice though.",
+    "filename": "1689337836083",
+    "ext": ".png",
+    "w": 577,
+    "h": 406,
+    "tn_w": 125,
+    "tn_h": 87,
+    "tim": 1689337847053871,
+    "time": 1689337847,
+    "md5": "kPtUNAlYgC5VUkCtJBK0ww==",
+    "fsize": 268841,
+    "resto": 94682366
+  },
+  {
+    "no": 94683771,
+    "now": "07/14/23(Fri)08:41:26",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683319\" class=\"quotelink\">&gt;&gt;94683319</a><br>Currently at my first job in a third world country (Italy). Earning 18k euro per year, total suicide fuel.",
+    "time": 1689338486,
+    "resto": 94682366
+  },
+  {
+    "no": 94684361,
+    "now": "07/14/23(Fri)09:18:50",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683771\" class=\"quotelink\">&gt;&gt;94683771</a><br>Holy shit, I&#039;m in Spain with 5 years of experience and I get 65, hot damn.",
+    "time": 1689340730,
+    "resto": 94682366
+  },
+  {
+    "no": 94684431,
+    "now": "07/14/23(Fri)09:23:21",
+    "name": "Anonymous",
+    "com": "What framework for noobs who are done dealing with the whole PHP nonsense<br>Node is like php and connects to a MySQL database with Express right?",
+    "time": 1689341001,
+    "resto": 94682366
+  },
+  {
+    "no": 94684505,
+    "now": "07/14/23(Fri)09:27:52",
+    "name": "Anonymous",
+    "com": "I want to learn new technologies, what&#039;s the trend for 2023?<br><br>Currently I&#039;m using React and Node.js the most.",
+    "time": 1689341272,
+    "resto": 94682366
+  },
+  {
+    "no": 94684751,
+    "now": "07/14/23(Fri)09:45:12",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94684431\" class=\"quotelink\">&gt;&gt;94684431</a><br>if laravel isn&#039;t good enough for you then you&#039;re never gonna make it, only rails comes close to the same level of batteries included<br><br><a href=\"#p94684505\" class=\"quotelink\">&gt;&gt;94684505</a><br>nuxt or svelte",
+    "time": 1689342312,
+    "resto": 94682366
+  },
+  {
+    "no": 94684900,
+    "now": "07/14/23(Fri)09:54:05",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94684751\" class=\"quotelink\">&gt;&gt;94684751</a><br>I fell for the &quot;don&#039;t learn Laravel, it&#039;s too abstract&quot; meme",
+    "time": 1689342845,
+    "resto": 94682366
+  },
+  {
+    "no": 94685118,
+    "now": "07/14/23(Fri)10:08:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94684900\" class=\"quotelink\">&gt;&gt;94684900</a><br><span class=\"quote\">&gt;listening to zend/codeigniter boomers stuck in 2010</span><br>kek<br>laravel is the best there is. 99% of the &gt;reeee its too magic complaints is just mongoloids crying about the container being accessible from faux static classes",
+    "time": 1689343714,
+    "resto": 94682366
+  },
+  {
+    "no": 94685331,
+    "now": "07/14/23(Fri)10:21:49",
+    "name": "Anonymous",
+    "com": "<a href=\"/g/thread/94619551#p94682312\" class=\"quotelink\">&gt;&gt;94682312</a><br>Normies in general prefer an app for navigating content (shopping, social network, etc), so the only way a PWA would work is if Apple would allow TWAs into the App Store (which they don&#039;t).<br>In this case the only options left are hybrid and native (which you choose depending on how much money you want to invest).<br>The approach with turbo native is build two basic native apps (kotlin and swift), add the turbo native library on each and link the rails app url with different headers - this way the WebView intercepts actions and receive &quot;DOM&quot; updates as nodes the same way hotwire works in the browser. The only work you need on the rails app is a little tweak and ensure the website is responsive",
+    "time": 1689344509,
+    "resto": 94682366
+  },
+  {
+    "no": 94685796,
+    "now": "07/14/23(Fri)10:51:40",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683771\" class=\"quotelink\">&gt;&gt;94683771</a><br>I do that in 5 weeks. Im freelance.",
+    "time": 1689346300,
+    "resto": 94682366
+  },
+  {
+    "no": 94685930,
+    "now": "07/14/23(Fri)11:01:01",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682366\" class=\"quotelink\">&gt;&gt;94682366</a><br>that picture is hideous",
+    "time": 1689346861,
+    "resto": 94682366
+  },
+  {
+    "no": 94685944,
+    "now": "07/14/23(Fri)11:02:03",
+    "name": "Anonymous",
+    "com": "If you&#039;re using tailwind to try and avoid learning CSS you&#039;re an idiot",
+    "time": 1689346923,
+    "resto": 94682366
+  },
+  {
+    "no": 94685991,
+    "now": "07/14/23(Fri)11:04:40",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682452\" class=\"quotelink\">&gt;&gt;94682452</a><br>MDN should be used by every web dev, it&#039;s the official docs pretty much.<br><br>eloquent javascript isn&#039;t bad.  It&#039;s an ok read if you&#039;re starting out",
+    "time": 1689347080,
+    "resto": 94682366
+  },
+  {
+    "no": 94686068,
+    "now": "07/14/23(Fri)11:09:01",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94685944\" class=\"quotelink\">&gt;&gt;94685944</a><br>Is this common? The basics of CSS is easy to grasp, tailwind is for the lazy/people who don&#039;t have time to design, but mostly for the lazy.",
+    "time": 1689347341,
+    "resto": 94682366
+  },
+  {
+    "no": 94686434,
+    "now": "07/14/23(Fri)11:29:42",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94686068\" class=\"quotelink\">&gt;&gt;94686068</a><br><span class=\"quote\">&gt;Is this common?</span><br>no<br>only unemployed retards who think jquery is enough think people think that",
+    "time": 1689348582,
+    "resto": 94682366
+  },
+  {
+    "no": 94686761,
+    "now": "07/14/23(Fri)11:47:01",
+    "name": "Anonymous",
+    "com": "What should I build to stand out? I know TS, Rust and Python. I know TS well. Help. I want a job soon. I need a job. I&#039;m tired of shitposting on /g/, /a/ and /lit/ everyday. I need moneyyyyy",
+    "time": 1689349621,
+    "resto": 94682366
+  },
+  {
+    "no": 94686818,
+    "now": "07/14/23(Fri)11:50:46",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94686761\" class=\"quotelink\">&gt;&gt;94686761</a><br>Build a reddit-replacement and that&#039;d be your job if it is successful.",
+    "time": 1689349846,
+    "resto": 94682366
+  },
+  {
+    "no": 94686875,
+    "now": "07/14/23(Fri)11:54:29",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;spend 2+ weeks writing scrapers and parsers so I can avoid paying 300 euro for an API that would have given me that data on a platter</span><br><span class=\"quote\">&gt;turns out I needed that API anyways because it has data I require but can&#039;t find publically</span><br>god i&#039;m so fucking STUPID, i hate being this STUPID CHEAP retard man.",
+    "time": 1689350069,
+    "resto": 94682366
+  },
+  {
+    "no": 94686982,
+    "now": "07/14/23(Fri)12:00:29",
+    "name": "Anonymous",
+    "com": "I have a range &lt;input&gt; that selects a number by increments of 5 with the value displayed alongside it and I need a way to select any integer. Ideally the user clicks on the number and it behaves something like an input. This web app is meant to be used on a tablet.<br><br>I could use an &lt;input&gt; on the number but it seems kind of clunky and I can&#039;t figure out how to remove all the default &lt;input&gt; styling so that it looks like a normal bit of text.<br><br>I&#039;m using React, if that matters.",
+    "filename": "Screenshot 2023-07-14 at 9.57.10 AM",
+    "ext": ".png",
+    "w": 226,
+    "h": 47,
+    "tn_w": 125,
+    "tn_h": 25,
+    "tim": 1689350429545455,
+    "time": 1689350429,
+    "md5": "5wZyz7hdgw3+WkkoNv83uA==",
+    "fsize": 1706,
+    "resto": 94682366
+  },
+  {
+    "no": 94687372,
+    "now": "07/14/23(Fri)12:19:35",
+    "name": "Anonymous",
+    "com": "people say this shit takes at least a year to learn, what&#039;s supposed to be the hard part of web dev? kill my dunning kruger here.",
+    "time": 1689351575,
+    "resto": 94682366
+  },
+  {
+    "no": 94687840,
+    "now": "07/14/23(Fri)12:44:54",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94686761\" class=\"quotelink\">&gt;&gt;94686761</a><br>Nothing you build will stand out. Start networking",
+    "time": 1689353094,
+    "resto": 94682366
+  },
+  {
+    "no": 94687856,
+    "now": "07/14/23(Fri)12:45:43",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94687372\" class=\"quotelink\">&gt;&gt;94687372</a><br>it boils down to the fact that you&#039;re always working with variables. starting with the very basics: You don&#039;t know for sure, that a client will download the .css and .js files that you linked in your html. However, suppose that it does, how do you know, that it handles them the way that you want? Everything that you send to the browser is merely a hint on what it should do. The browser is free to ignore your hints, it&#039;s free to modify them, but you still want stuff to work, don&#039;t ya? So what about screen sizes? Input devices? Are you dealing with a touch machine or a desktop?",
+    "time": 1689353143,
+    "resto": 94682366
+  },
+  {
+    "no": 94687900,
+    "now": "07/14/23(Fri)12:48:15",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94687840\" class=\"quotelink\">&gt;&gt;94687840</a><br><span class=\"quote\">&gt;Start networking</span><br>what does this mean? Networking as in building connections to potential employers? or networking as in computer networking?",
+    "time": 1689353295,
+    "resto": 94682366
+  },
+  {
+    "no": 94687926,
+    "now": "07/14/23(Fri)12:49:39",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94687900\" class=\"quotelink\">&gt;&gt;94687900</a><br>Both. Knee pads help when you network with employers.",
+    "time": 1689353379,
+    "resto": 94682366
+  },
+  {
+    "no": 94688579,
+    "now": "07/14/23(Fri)13:21:11",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682741\" class=\"quotelink\">&gt;&gt;94682741</a><br>tailwind is awesome",
+    "time": 1689355271,
+    "resto": 94682366
+  },
+  {
+    "no": 94688643,
+    "now": "07/14/23(Fri)13:24:19",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683771\" class=\"quotelink\">&gt;&gt;94683771</a><br>sud?",
+    "time": 1689355459,
+    "resto": 94682366
+  },
+  {
+    "no": 94688896,
+    "now": "07/14/23(Fri)13:36:37",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94686982\" class=\"quotelink\">&gt;&gt;94686982</a><br>https://css-tricks.com/styling-cros<wbr>s-browser-compatible-range-inputs-c<wbr>ss/",
+    "time": 1689356197,
+    "resto": 94682366
+  },
+  {
+    "no": 94688903,
+    "now": "07/14/23(Fri)13:37:20",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94688896\" class=\"quotelink\">&gt;&gt;94688896</a><br><span class=\"quote\">&gt;https://css-tricks.com/styling-cro<wbr>ss-browser-compatible-range-inputs-<wbr>css/</span><br>sweet thanks",
+    "time": 1689356240,
+    "resto": 94682366
+  },
+  {
+    "no": 94689808,
+    "now": "07/14/23(Fri)14:26:21",
+    "name": "Anonymous",
+    "com": "It&#039;s literally over.<br>You will never catch up.<br>You will never get a well paid job.<br>You will forever be a shitty NEET.",
+    "time": 1689359181,
+    "resto": 94682366
+  },
+  {
+    "no": 94690102,
+    "now": "07/14/23(Fri)14:39:45",
+    "name": "Anonymous",
+    "com": "I have a script that parses a txt file and formats the data into a json file<br>And another that puts the data in the json file into a nosql db<br>Should I combine them instead? Or is it better for scripts to be separate? I mean, these two things are pretty similar to each other so I wasn&#039;t sure",
+    "time": 1689359985,
+    "resto": 94682366
+  },
+  {
+    "no": 94690317,
+    "now": "07/14/23(Fri)14:51:37",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94689808\" class=\"quotelink\">&gt;&gt;94689808</a><br>I broke out of the neetdom with no connections/friends or academic degree<br>it&#039;s hard and mentally taxing, but you can do it as well, anon<br>please don&#039;t give up",
+    "time": 1689360697,
+    "resto": 94682366
+  },
+  {
+    "no": 94690394,
+    "now": "07/14/23(Fri)14:55:18",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94690317\" class=\"quotelink\">&gt;&gt;94690317</a><br><a href=\"#p94689808\" class=\"quotelink\">&gt;&gt;94689808</a><br>I&#039;m having a shit time too. I&#039;m a massive social retard so even though I&#039;m technically good enough I just think I give off such a bad impression that no one wants to work with me. Feels like everyone around me is getting hired in a shorter time than me and I think there must be something really wrong with me",
+    "time": 1689360918,
+    "resto": 94682366
+  },
+  {
+    "no": 94691353,
+    "now": "07/14/23(Fri)15:42:45",
+    "name": "Anonymous",
+    "com": "Developing Wordpress sites apparently does not need code at all anymore",
+    "time": 1689363765,
+    "resto": 94682366
+  },
+  {
+    "no": 94692302,
+    "now": "07/14/23(Fri)16:29:49",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683591\" class=\"quotelink\">&gt;&gt;94683591</a><br><span class=\"quote\">&gt;Got to the final stages twice though.</span><br>Nice. You will get there. I have a friend that had more than 50 interviews before he landed a job.",
+    "time": 1689366589,
+    "resto": 94682366
+  },
+  {
+    "no": 94693367,
+    "now": "07/14/23(Fri)17:17:54",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94690394\" class=\"quotelink\">&gt;&gt;94690394</a><br>same",
+    "time": 1689369474,
+    "resto": 94682366
+  },
+  {
+    "no": 94693520,
+    "now": "07/14/23(Fri)17:24:08",
+    "name": "Anonymous",
+    "com": "Is this legit or is it not safe because it&#039;s not OOP php?<br>https://www.youtube.com/watch?v=Imt<wbr>Z5yENzgE&amp;t=2s&amp;ab_channel=freeCodeCa<wbr>mp.org",
+    "time": 1689369848,
+    "resto": 94682366
+  },
+  {
+    "no": 94693554,
+    "now": "07/14/23(Fri)17:25:17",
+    "name": "Anonymous",
+    "com": "I shouldnt need node installed to host a front-end SPA with something like Vue or Svelte, right?<br>I&#039;m stuck with shitty managed hosting for a while and I just need to be able to host a functional front end, that points to an external rest api. Node cannot be installed on the host.",
+    "time": 1689369917,
+    "resto": 94682366
+  },
+  {
+    "no": 94693707,
+    "now": "07/14/23(Fri)17:31:03",
+    "name": "Anonymous",
+    "com": "My loading spinner has a transparent png in it, which loads after the pure CSS parts do. So it appears broken for about 300ms.<br><br>Would it fix the problem to just put the PNG in my index.html (or somewhere) and set it to 0% opacity? That way it would be in cache by the time it appears normally, in theory<br><br><a href=\"#p94693554\" class=\"quotelink\">&gt;&gt;94693554</a><br>Correct, you&#039;re good. If you want, you can also use dynamic imports in vue router to make the first load faster, just no server side rendering.",
+    "time": 1689370263,
+    "resto": 94682366
+  },
+  {
+    "no": 94693879,
+    "now": "07/14/23(Fri)17:37:02",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94693707\" class=\"quotelink\">&gt;&gt;94693707</a><br>thank",
+    "time": 1689370622,
+    "resto": 94682366
+  },
+  {
+    "no": 94694052,
+    "now": "07/14/23(Fri)17:43:53",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94693707\" class=\"quotelink\">&gt;&gt;94693707</a><br>Why not put the CSS classes that are responsible for the loading animation as a script tag inline, or in the head?",
+    "time": 1689371033,
+    "resto": 94682366
+  },
+  {
+    "no": 94694119,
+    "now": "07/14/23(Fri)17:46:34",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;I wanna finish my product for pre-relase, but I got some </span><pre class=\"prettyprint\">Access to XMLHttpRequest at &#039;http://localhost:8765/&#039; from origin &#039;http://localhost:3000&#039; has been blocked by CORS policy: The &#039;Access-Control-Allow-Origin&#039; header has a value &#039;http://localhost&#039; that is not equal to the supplied origin.</pre> error that I can&#039;t solve for the second day<br>It&#039;s literally one request. I made it work once for production, but not even once did it work in development mode",
+    "time": 1689371194,
+    "resto": 94682366
+  },
+  {
+    "no": 94694138,
+    "now": "07/14/23(Fri)17:47:36",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94694119\" class=\"quotelink\">&gt;&gt;94694119</a><br>I already clicked all stackoverflow links and nothing helps lmao.<br>Annoying shit.",
+    "time": 1689371256,
+    "resto": 94682366
+  },
+  {
+    "no": 94694201,
+    "now": "07/14/23(Fri)17:49:51",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682741\" class=\"quotelink\">&gt;&gt;94682741</a><br>tailwind is gay",
+    "time": 1689371391,
+    "resto": 94682366
+  },
+  {
+    "no": 94694499,
+    "now": "07/14/23(Fri)18:01:16",
+    "name": "Anonymous",
+    "com": "Why are flask and fastapi so popular? I thought python is not used that much as a backend.",
+    "filename": "1996775",
+    "ext": ".png",
+    "w": 518,
+    "h": 1164,
+    "tn_w": 55,
+    "tn_h": 124,
+    "tim": 1689372076334206,
+    "time": 1689372076,
+    "md5": "kTTp7/eF2RH9Q6zjJRI68w==",
+    "fsize": 67347,
+    "resto": 94682366
+  },
+  {
+    "no": 94694529,
+    "now": "07/14/23(Fri)18:02:32",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94694499\" class=\"quotelink\">&gt;&gt;94694499</a><br>Yeah, it surprises me too",
+    "time": 1689372152,
+    "resto": 94682366
+  },
+  {
+    "no": 94694592,
+    "now": "07/14/23(Fri)18:04:59",
+    "name": "Anonymous",
+    "com": "Why is ReadableStreamGenericReader.closed a fucking Promise",
+    "time": 1689372299,
+    "resto": 94682366
+  },
+  {
+    "no": 94695049,
+    "now": "07/14/23(Fri)18:22:52",
+    "name": "Anonymous",
+    "com": "wdg&#039;s worst enemy",
+    "filename": "michael",
+    "ext": ".jpg",
+    "w": 1600,
+    "h": 1200,
+    "tn_w": 125,
+    "tn_h": 93,
+    "tim": 1689373372292255,
+    "time": 1689373372,
+    "md5": "HOX58zLFsp+V2T5sIAKZtA==",
+    "fsize": 266657,
+    "resto": 94682366
+  },
+  {
+    "no": 94695223,
+    "now": "07/14/23(Fri)18:29:01",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94694499\" class=\"quotelink\">&gt;&gt;94694499</a><br><span class=\"quote\">&gt; I thought python is not used that much as a backend.</span><br>it is very common because there are a lot of pretty high quality frameworks (such as flask/django/fastapi) and it is fairly easy to write.",
+    "time": 1689373741,
+    "resto": 94682366
+  },
+  {
+    "no": 94695425,
+    "now": "07/14/23(Fri)18:36:03",
+    "name": "Anonymous",
+    "com": "how do i set metadata on client component<br>those are still run on build time for ssg",
+    "time": 1689374163,
+    "resto": 94682366
+  },
+  {
+    "no": 94696090,
+    "now": "07/14/23(Fri)19:01:08",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94695425\" class=\"quotelink\">&gt;&gt;94695425</a><br>never mindo<br>mental model shift yooo",
+    "time": 1689375668,
+    "resto": 94682366
+  },
+  {
+    "no": 94697157,
+    "now": "07/14/23(Fri)19:46:40",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94693520\" class=\"quotelink\">&gt;&gt;94693520</a><br>Laverel uses oop, it is secure though.",
+    "time": 1689378400,
+    "resto": 94682366
+  },
+  {
+    "no": 94697371,
+    "now": "07/14/23(Fri)19:56:39",
+    "name": "Anonymous",
+    "com": "Is it viable to learn PHP in 2023?",
+    "time": 1689378999,
+    "resto": 94682366
+  },
+  {
+    "no": 94697429,
+    "now": "07/14/23(Fri)19:58:46",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94694119\" class=\"quotelink\">&gt;&gt;94694119</a><br>Fixed it by moving the invoke function from renderer to main (in an Electron app)",
+    "time": 1689379126,
+    "resto": 94682366
+  },
+  {
+    "no": 94698021,
+    "now": "07/14/23(Fri)20:26:31",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;can&#039;t break out of a forEach loop prematurely</span><br>why does javascript exist? surely the retards who programmed this shitty function could predict someone wanting to break out of the loop right?",
+    "time": 1689380791,
+    "resto": 94682366
+  },
+  {
+    "no": 94698211,
+    "now": "07/14/23(Fri)20:35:47",
+    "name": "Anonymous",
+    "com": "Looking to get out of IC role - and move into mgmt or tech-adjacent role so I don&#039;t have to write a code. <br><br>Has anyone reached this point in thier career - where you just hate looking at code?<br><br>I used to love coding when it was my projects/startup, but I can&#039;t fucking stand it anymore.",
+    "time": 1689381347,
+    "resto": 94682366
+  },
+  {
+    "no": 94698713,
+    "now": "07/14/23(Fri)21:03:33",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683319\" class=\"quotelink\">&gt;&gt;94683319</a><br>45k annual, US, back in 2014",
+    "time": 1689383013,
+    "resto": 94682366
+  },
+  {
+    "no": 94698907,
+    "now": "07/14/23(Fri)21:15:29",
+    "name": "Anonymous",
+    "com": "niggas would tell you with a straight face that in order to do this shit you have to have a passion for it. lmaoooooo fucking goofballs",
+    "time": 1689383729,
+    "resto": 94682366
+  },
+  {
+    "no": 94698976,
+    "now": "07/14/23(Fri)21:19:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94684505\" class=\"quotelink\">&gt;&gt;94684505</a><br><span class=\"quote\">&gt;what&#039;s the trend for 2023?</span><br>React and Node.js",
+    "time": 1689383975,
+    "resto": 94682366
+  },
+  {
+    "no": 94699000,
+    "now": "07/14/23(Fri)21:21:00",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94698021\" class=\"quotelink\">&gt;&gt;94698021</a><br>well don&#039;t you use a forEach loop then you fucking faggot",
+    "time": 1689384060,
+    "resto": 94682366
+  },
+  {
+    "no": 94699047,
+    "now": "07/14/23(Fri)21:23:31",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94698021\" class=\"quotelink\">&gt;&gt;94698021</a><br>break?",
+    "time": 1689384211,
+    "resto": 94682366
+  },
+  {
+    "no": 94699064,
+    "now": "07/14/23(Fri)21:24:20",
+    "name": "Anonymous",
+    "com": "Today I underestimated how hard adding a persistent dark/light mode switch is.<br>I made one with pure CSS and vanilla JS, and it took me four hours.<br>Am I never gonna make it?",
+    "time": 1689384260,
+    "resto": 94682366
+  },
+  {
+    "no": 94699198,
+    "now": "07/14/23(Fri)21:32:07",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94690394\" class=\"quotelink\">&gt;&gt;94690394</a><br><a href=\"#p94693367\" class=\"quotelink\">&gt;&gt;94693367</a><br>How do you even give a bad impression in normal conversations? I&#039;m not a charming extrovert myself, but how is it possible to be so socially inept that you can&#039;t form normal sentences in a normal manner? I don&#039;t understand.",
+    "time": 1689384727,
+    "resto": 94682366
+  },
+  {
+    "no": 94699203,
+    "now": "07/14/23(Fri)21:32:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94699064\" class=\"quotelink\">&gt;&gt;94699064</a><br>In node it&#039;s literally 1 minute<br><pre class=\"prettyprint\">npm i jotai</pre>",
+    "time": 1689384755,
+    "resto": 94682366
+  },
+  {
+    "no": 94699933,
+    "now": "07/14/23(Fri)22:17:16",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94698021\" class=\"quotelink\">&gt;&gt;94698021</a><br>As the name suggests &quot;for each&quot; loop is supposed to be used for each element, and breaking out of it would mean you&#039;re not using it for each<br>https://masteringjs.io/tutorials/fu<wbr>ndamentals/foreach-break",
+    "time": 1689387436,
+    "resto": 94682366
+  },
+  {
+    "no": 94700513,
+    "now": "07/14/23(Fri)22:51:38",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94698021\" class=\"quotelink\">&gt;&gt;94698021</a><br><span class=\"quote\">&gt;didn&#039;t even learn the very basics of the language</span><br><span class=\"quote\">&gt;didn&#039;t even look for a solution online</span><br><span class=\"quote\">&gt;cries on 4chan</span><br><span class=\"quote\">&gt;calls the people that are 100x more intelligent than him retards</span>",
+    "time": 1689389498,
+    "resto": 94682366
+  },
+  {
+    "no": 94700574,
+    "now": "07/14/23(Fri)22:56:07",
+    "name": "Anonymous",
+    "com": "Failwind is for trannies who have no imagination and can&#039;t design with CSS",
+    "time": 1689389767,
+    "resto": 94682366
+  },
+  {
+    "no": 94702052,
+    "now": "07/15/23(Sat)00:22:21",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94697371\" class=\"quotelink\">&gt;&gt;94697371</a><br>you tell me...once im done my shit im going to learn it",
+    "filename": "jeez",
+    "ext": ".png",
+    "w": 681,
+    "h": 337,
+    "tn_w": 125,
+    "tn_h": 61,
+    "tim": 1689394941898728,
+    "time": 1689394941,
+    "md5": "fUlYB2YLY9nxTfAibcXXiw==",
+    "fsize": 39157,
+    "resto": 94682366
+  },
+  {
+    "no": 94702118,
+    "now": "07/15/23(Sat)00:25:21",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94700574\" class=\"quotelink\">&gt;&gt;94700574</a><br>tailwindcels lmao",
+    "filename": "wtf",
+    "ext": ".jpg",
+    "w": 1200,
+    "h": 405,
+    "tn_w": 125,
+    "tn_h": 42,
+    "tim": 1689395121376359,
+    "time": 1689395121,
+    "md5": "ZZL9ahzzcH8ivSrJ6beViQ==",
+    "fsize": 41472,
+    "resto": 94682366
+  },
+  {
+    "no": 94702501,
+    "now": "07/15/23(Sat)00:48:11",
+    "name": "Anonymous",
+    "com": "I already know about HTML, CSS and Javascript, but I need some refresher so I take a look at odinproject that&#039;s linked in the first post. At first, I&#039;m excited because it accommodates FAANG curriculum. What do I get ? It&#039;s crap. This is like watching movies made by teenagers. It feels so amateurish, they cut shitload of content and use other people&#039;s youtube videos. Tables and Form ? It&#039;s not important though, we&#039;ll skip &#039;em. At this point, I realize that it&#039;s better to just pirate e-books, skim through the content for 1-2 minutes and drop the book if it&#039;s crap. If it&#039;s good, continue reading from page 1 to the end.<br><br>tl;dr:<br>Odinproject is bad, it&#039;s like watching 5 minutes movie based on award-winning 800 pages novel",
+    "filename": "odinproject",
+    "ext": ".jpg",
+    "w": 820,
+    "h": 833,
+    "tn_w": 123,
+    "tn_h": 124,
+    "tim": 1689396491764883,
+    "time": 1689396491,
+    "md5": "0Lf8Uh7+pV/k2VkreY5yfg==",
+    "fsize": 35470,
+    "resto": 94682366
+  },
+  {
+    "no": 94702814,
+    "now": "07/15/23(Sat)01:05:22",
+    "name": "Anonymous",
+    "com": "tailwind is based",
+    "time": 1689397522,
+    "resto": 94682366
+  },
+  {
+    "no": 94702925,
+    "now": "07/15/23(Sat)01:11:16",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94702814\" class=\"quotelink\">&gt;&gt;94702814</a><br>tailwind is based",
+    "filename": "1689330085461142",
+    "ext": ".png",
+    "w": 858,
+    "h": 848,
+    "tn_w": 125,
+    "tn_h": 123,
+    "tim": 1689397876593956,
+    "time": 1689397876,
+    "md5": "f0FgjhPxainpgny6aXtS0g==",
+    "fsize": 47727,
+    "resto": 94682366
+  },
+  {
+    "no": 94703071,
+    "now": "07/15/23(Sat)01:21:08",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682452\" class=\"quotelink\">&gt;&gt;94682452</a><br>Using VSCode, ask Copilot using the comments feature of the languages of choice, press [enter] key and filter whatever it throws back.<br>When it is without any clue will try to fake an stackoverflow url with the answer.",
+    "time": 1689398468,
+    "resto": 94682366
+  },
+  {
+    "no": 94703256,
+    "now": "07/15/23(Sat)01:33:29",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682452\" class=\"quotelink\">&gt;&gt;94682452</a><br><span class=\"quote\">&gt;What resources from OP did you even use and can approve of?</span><br>MDN is always great.<br>Also I have not used Full stack Open, but it seems pretty solid. <br>Also I will soon do flexbox froggy and possibly the grid one as well. People say they are solid and I want to learn Flex.",
+    "time": 1689399209,
+    "resto": 94682366
+  },
+  {
+    "no": 94703298,
+    "now": "07/15/23(Sat)01:36:22",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94683771\" class=\"quotelink\">&gt;&gt;94683771</a><br>Move to Switzerland, or at least the boarder region. Even a poorly paid job is at least 3-4x what you make. Also things just work in Switzerland, unlike most of southern Europe.<br>You can find some jobs here<br>https://swissdevjobs.ch/",
+    "time": 1689399382,
+    "resto": 94682366
+  },
+  {
+    "no": 94703524,
+    "now": "07/15/23(Sat)01:50:49",
+    "name": "Anonymous",
+    "com": "For a newbie who knows html, css, js, react... it is worth studying React Native?",
+    "time": 1689400249,
+    "resto": 94682366
+  },
+  {
+    "no": 94703996,
+    "now": "07/15/23(Sat)02:21:36",
+    "name": "Anonymous",
+    "com": "tonight I&#039;ve been completely possesed by the spirit of web proficiency<br><br>drugs, some times are alright, specially for partying",
+    "time": 1689402096,
+    "resto": 94682366
+  },
+  {
+    "no": 94704554,
+    "now": "07/15/23(Sat)03:02:42",
+    "name": "Anonymous",
+    "com": "Let&#039;s say, I want to create a website, step-by step of what I should learn:<br><br>- Learn the newest HTML standard (HTML 5)<br>- Vanilla Javascript<br>- Typescript<br>- Basic CSS <br>- CSS framework like Tailwind so it looks pretty<br>- Node.JS for backend<br>- React.js for frontend<br>- Express.js<br>- MongoDB / PostgreSQL for Database<br><br>My questions:<br>- Is this the current meta ?<br>- What about security ? I&#039;m afraid my server is hacked after it&#039;s online.<br>- Do I need to learn jQuery ? It&#039;s not mentioned in the pasta.",
+    "time": 1689404562,
+    "resto": 94682366
+  },
+  {
+    "no": 94704567,
+    "now": "07/15/23(Sat)03:03:39",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94704554\" class=\"quotelink\">&gt;&gt;94704554</a><br>it depends on what its for",
+    "time": 1689404619,
+    "resto": 94682366
+  },
+  {
+    "no": 94704709,
+    "now": "07/15/23(Sat)03:12:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94704554\" class=\"quotelink\">&gt;&gt;94704554</a><br>you don&#039;t need a separate backend unless you have some scaling requirements. you can use full stack frameworks for an all in one solution<br><br>if you want to use react, use nextjs<br>if you want to use vue, use nuxt<br>if you want to use svelte, use sveltekit<br>if you&#039;re deploying mostly static content with little bits of interactivity, use astro<br><br>jquery is vaporware",
+    "time": 1689405154,
+    "resto": 94682366
+  },
+  {
+    "no": 94704956,
+    "now": "07/15/23(Sat)03:30:04",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94698021\" class=\"quotelink\">&gt;&gt;94698021</a><br>You use a for of instead or chain methods.",
+    "time": 1689406204,
+    "resto": 94682366
+  },
+  {
+    "no": 94705045,
+    "now": "07/15/23(Sat)03:37:47",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94704567\" class=\"quotelink\">&gt;&gt;94704567</a><br>My plan is to create:<br>- Basic company profile website for some of my friends where people can see phone number, product images, company address<br>- Blogging website in my domain (should I use existing platform like Wodpress ?)<br><br><a href=\"#p94704709\" class=\"quotelink\">&gt;&gt;94704709</a><br>Thanks for the answers, I&#039;m really out of the loop after not touching web programming for years. Back then, I only knew basic HTML, CSS, Javascript and PHP. I still don&#039;t really know about React, Vue, Svelte, or Astro but I&#039;ll study them.",
+    "time": 1689406667,
+    "resto": 94682366
+  },
+  {
+    "no": 94705130,
+    "now": "07/15/23(Sat)03:43:39",
+    "name": "Anonymous",
+    "com": "junior ready web payment gateway?",
+    "time": 1689407019,
+    "resto": 94682366
+  },
+  {
+    "no": 94705252,
+    "now": "07/15/23(Sat)03:53:16",
+    "name": "Anonymous",
+    "com": "most of the things /g/ shit on are kinda good<br>also /wdg/ is barely employed so you lurkers take this shit with a grain of salt",
+    "time": 1689407596,
+    "resto": 94682366
+  },
+  {
+    "no": 94705271,
+    "now": "07/15/23(Sat)03:55:05",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94705252\" class=\"quotelink\">&gt;&gt;94705252</a><br>correct",
+    "time": 1689407705,
+    "resto": 94682366
+  },
+  {
+    "no": 94705352,
+    "now": "07/15/23(Sat)04:01:46",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94705252\" class=\"quotelink\">&gt;&gt;94705252</a><br>lightly salted shit huh? interesting",
+    "time": 1689408106,
+    "resto": 94682366
+  },
+  {
+    "no": 94705601,
+    "now": "07/15/23(Sat)04:22:21",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94705252\" class=\"quotelink\">&gt;&gt;94705252</a><br><span class=\"quote\">&gt;you lurkers take this shit with a grain of salt</span><br>you know, this is something I have been worrying a lot about lately since some people here shitpost so fucking much<br>/wdg/ is an horrible place, but the only one where you can talk about web development on 4chan so there is not much i can do about that",
+    "time": 1689409341,
+    "resto": 94682366
+  },
+  {
+    "no": 94705756,
+    "now": "07/15/23(Sat)04:33:58",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94704554\" class=\"quotelink\">&gt;&gt;94704554</a><br>Just start building your website and google as you go. There&#039;s no &quot;step-by-step&quot; learning and after you&#039;re done you can finally go and build your website. You&#039;re never done, you just build shit one step at a time and for your next project you recall the mistakes of the previous one.",
+    "time": 1689410038,
+    "resto": 94682366
+  },
+  {
+    "no": 94705781,
+    "now": "07/15/23(Sat)04:36:14",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94705756\" class=\"quotelink\">&gt;&gt;94705756</a><br>And don&#039;t get caught in those meme frameworks, just use Node + React which is the current industry standard",
+    "time": 1689410174,
+    "resto": 94682366
+  },
+  {
+    "no": 94705802,
+    "now": "07/15/23(Sat)04:37:40",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94705781\" class=\"quotelink\">&gt;&gt;94705781</a><br>this retard is a prime example of what <a href=\"#p94705252\" class=\"quotelink\">&gt;&gt;94705252</a> is talking about<br>just be very careful when reading anything on /g/",
+    "time": 1689410260,
+    "resto": 94682366
+  },
+  {
+    "no": 94705822,
+    "now": "07/15/23(Sat)04:39:05",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94705802\" class=\"quotelink\">&gt;&gt;94705802</a><br>Not saying the new frameworks are bad, they&#039;re just too overwhelming for a novice, so instead of getting hyped for all the new hip names just learn the main thing well and then explore further instead of starting from some niche shit",
+    "time": 1689410345,
+    "resto": 94682366
+  },
+  {
+    "no": 94705900,
+    "now": "07/15/23(Sat)04:45:52",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94702501\" class=\"quotelink\">&gt;&gt;94702501</a><br><span class=\"quote\">&gt;Tables and Form ? It&#039;s not important though, we&#039;ll skip &#039;em.</span><br>YOU skipped them, if you can&#039;t find where those subjects are covered in the curriculum maybe it&#039;s better to just give up webdev and go work at burger king.",
+    "time": 1689410752,
+    "resto": 94682366
+  },
+  {
+    "no": 94705954,
+    "now": "07/15/23(Sat)04:49:41",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94702501\" class=\"quotelink\">&gt;&gt;94702501</a><br>just learn through a youtube build-along it will give similar effects to pair programming with someone who knows their stuff. you can pick up stuff faster but never neglect the &quot;why&quot; or &quot;how&quot; certain things work. don&#039;t take it for granted and understand why certain decisions are made.",
+    "time": 1689410981,
+    "resto": 94682366
+  },
+  {
+    "no": 94706011,
+    "now": "07/15/23(Sat)04:53:44",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94684505\" class=\"quotelink\">&gt;&gt;94684505</a><br><span class=\"quote\">&gt;Iwhat&#039;s the trend for </span><br><span class=\"quote\">&gt;2023</span><br><span class=\"quote\">&gt;2024</span><br><span class=\"quote\">&gt;2025</span><br><span class=\"quote\">&gt;...2030</span><br>Nodejs and whatever React flavor of the year is.<br>My guess is that Node or an equivalent JS backend runtime combined with React will stay the king and queen for at least the next 4 years. No new language can really compare if you are a smaller company who wants a language that lets you write code somewhat fast, be efficient enough and generally offer good enough type safety and have libraries that will solve the business needs.<br>Only C# or Java can really compare, to a lesser extent Python because of its bad type safety and too slow performance, but neither of them allows you to write code at the speed of JS. And for a startup and/or SMB this is quite important. <br><br>Newcomers are Golang and Rust, but they are not a good replacement in most cases. Other languages are too old and not cool enough to get people to work for you.<br>Maybe Hack, the Facebook developmed type safe version of PHP could make a big splash, but I really don&#039;t know anything about it, and few people want to work with PHP.",
+    "time": 1689411224,
+    "resto": 94682366
+  },
+  {
+    "no": 94706030,
+    "now": "07/15/23(Sat)04:55:08",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706011\" class=\"quotelink\">&gt;&gt;94706011</a><br><span class=\"quote\">&gt;or an equivalent JS backend runtime</span><br>hoping bun matures quickly",
+    "time": 1689411308,
+    "resto": 94682366
+  },
+  {
+    "no": 94706037,
+    "now": "07/15/23(Sat)04:55:17",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706011\" class=\"quotelink\">&gt;&gt;94706011</a><br><a href=\"#p94705781\" class=\"quotelink\">&gt;&gt;94705781</a><br>NodeJeetS is nowhere near being even slightly relevant, you absolute retard. Stop spreading your retardation.",
+    "time": 1689411317,
+    "resto": 94682366
+  },
+  {
+    "no": 94706215,
+    "now": "07/15/23(Sat)05:08:54",
+    "name": "Anonymous",
+    "com": "what are monorepos?<br>is it like having fullstack with just php in one repo or like having php with react both front and backend in the same repo?",
+    "time": 1689412134,
+    "resto": 94682366
+  },
+  {
+    "no": 94706248,
+    "now": "07/15/23(Sat)05:11:04",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;junior got fired because sysadmin caught him searching for &quot;how to reverse array in js&quot; on the company laptop</span>",
+    "filename": "1689412225004",
+    "ext": ".png",
+    "w": 680,
+    "h": 1069,
+    "tn_w": 79,
+    "tn_h": 125,
+    "tim": 1689412264695160,
+    "time": 1689412264,
+    "md5": "4fYid1eGv8zbfRbX0Ndviw==",
+    "fsize": 655820,
+    "resto": 94682366
+  },
+  {
+    "no": 94706252,
+    "now": "07/15/23(Sat)05:11:36",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706037\" class=\"quotelink\">&gt;&gt;94706037</a><br>Then what is",
+    "time": 1689412296,
+    "resto": 94682366
+  },
+  {
+    "no": 94706253,
+    "now": "07/15/23(Sat)05:11:38",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706248\" class=\"quotelink\">&gt;&gt;94706248</a><br>Dumb fucking frogposter",
+    "time": 1689412298,
+    "resto": 94682366
+  },
+  {
+    "no": 94706269,
+    "now": "07/15/23(Sat)05:12:45",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706215\" class=\"quotelink\">&gt;&gt;94706215</a><br>It&#039;s literally just a repo with a fronted and backend folder <br>People just like to come up with fancy words for everything because it makes their bullshit job sound more interesting",
+    "time": 1689412365,
+    "resto": 94682366
+  },
+  {
+    "no": 94706319,
+    "now": "07/15/23(Sat)05:16:31",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706248\" class=\"quotelink\">&gt;&gt;94706248</a><br>never happened, plus silly<br>pretty much unemployed shitpost",
+    "time": 1689412591,
+    "resto": 94682366
+  },
+  {
+    "no": 94706435,
+    "now": "07/15/23(Sat)05:25:17",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706215\" class=\"quotelink\">&gt;&gt;94706215</a><br>it&#039;s a repo that generally holds everything for a project.<br>at work we have our node backend and vue frontend in a monorepo, along with other assorted tools<br>things like DTOs are split off into libraries that both the frontend and backend consume, so we aren&#039;t doubling up on type definitions",
+    "time": 1689413117,
+    "resto": 94682366
+  },
+  {
+    "no": 94706621,
+    "now": "07/15/23(Sat)05:38:04",
+    "name": "Anonymous",
+    "com": "I&#039;m looking to reproduce this effect in WebGL: https://tympanus.net/Development/On<wbr>ScrollFilter/<br>(the one at Fire Storm), any guidance to get started? Open-source examples appreciated, but I would take anything really.",
+    "filename": "Screen Recording 2023-07-15 at 11.33.32",
+    "ext": ".webm",
+    "w": 1500,
+    "h": 1412,
+    "tn_w": 125,
+    "tn_h": 117,
+    "tim": 1689413884281329,
+    "time": 1689413884,
+    "md5": "Ll1xjnKXQoF4m5xco1eNeQ==",
+    "fsize": 1081160,
+    "resto": 94682366
+  },
+  {
+    "no": 94707479,
+    "now": "07/15/23(Sat)06:40:21",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;skills: HTML, CSS, TypeScript, React, Miku, Next.js, Node.js, Jest, Python</span><br>NOBODY WILL NOTICE",
+    "filename": "1586426293141",
+    "ext": ".jpg",
+    "w": 1366,
+    "h": 768,
+    "tn_w": 125,
+    "tn_h": 70,
+    "tim": 1689417621936139,
+    "time": 1689417621,
+    "md5": "SV8PK0Qh+qNJyPYD8vUr7w==",
+    "fsize": 191912,
+    "resto": 94682366
+  },
+  {
+    "no": 94707831,
+    "now": "07/15/23(Sat)07:03:16",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706011\" class=\"quotelink\">&gt;&gt;94706011</a><br>Why do you think Go isn&#039;t a good replacement?",
+    "time": 1689418996,
+    "resto": 94682366
+  },
+  {
+    "no": 94708412,
+    "now": "07/15/23(Sat)07:41:23",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94706037\" class=\"quotelink\">&gt;&gt;94706037</a><br><a href=\"#p94694499\" class=\"quotelink\">&gt;&gt;94694499</a><br>see, it&#039;s literally the most used back end tech among professionals by a big margin",
+    "time": 1689421283,
+    "resto": 94682366
+  },
+  {
+    "no": 94708445,
+    "now": "07/15/23(Sat)07:43:52",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708412\" class=\"quotelink\">&gt;&gt;94708412</a><br><span class=\"quote\">&gt;muh shitoverflow survey reflects the whole industry</span><br>brain dead faggot",
+    "time": 1689421432,
+    "resto": 94682366
+  },
+  {
+    "no": 94708461,
+    "now": "07/15/23(Sat)07:45:12",
+    "name": "Anonymous",
+    "com": "I&#039;m now learning WordPress. I WILL get a job",
+    "filename": "1689421502878",
+    "ext": ".webm",
+    "w": 680,
+    "h": 848,
+    "tn_w": 100,
+    "tn_h": 125,
+    "tim": 1689421512785673,
+    "time": 1689421512,
+    "md5": "1+pEKYtBvjQOYpy9SLzypw==",
+    "fsize": 1263625,
+    "resto": 94682366
+  },
+  {
+    "no": 94708504,
+    "now": "07/15/23(Sat)07:48:05",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708445\" class=\"quotelink\">&gt;&gt;94708445</a><br>sure, your retarded opinion is far more relevant",
+    "time": 1689421685,
+    "resto": 94682366
+  },
+  {
+    "no": 94708505,
+    "now": "07/15/23(Sat)07:48:06",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708461\" class=\"quotelink\">&gt;&gt;94708461</a><br>I keep putting off the writing the blog for my dad&#039;s real estate business. Its been a month. He pays me $150 for 8 blog posts. Its not bad but this feels like being back in school with the homework hanging over my head all the time.",
+    "time": 1689421686,
+    "resto": 94682366
+  },
+  {
+    "no": 94708519,
+    "now": "07/15/23(Sat)07:49:38",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708505\" class=\"quotelink\">&gt;&gt;94708505</a><br>Use AI retard.",
+    "time": 1689421778,
+    "resto": 94682366
+  },
+  {
+    "no": 94708521,
+    "now": "07/15/23(Sat)07:49:44",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708461\" class=\"quotelink\">&gt;&gt;94708461</a><br><span class=\"quote\">&gt;learning</span><br>my reddit sides",
+    "time": 1689421784,
+    "resto": 94682366
+  },
+  {
+    "no": 94708522,
+    "now": "07/15/23(Sat)07:49:52",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708504\" class=\"quotelink\">&gt;&gt;94708504</a><br>keep shitting in the street and keep your mouth shut, unemployed rajeesh",
+    "time": 1689421792,
+    "resto": 94682366
+  },
+  {
+    "no": 94708790,
+    "now": "07/15/23(Sat)08:08:14",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;learn concepts in java/spring</span><br><span class=\"quote\">&gt;apply them to a node/express app</span><br>I feel like I have unironically found the holy grail of web dev",
+    "filename": "214421421",
+    "ext": ".jpg",
+    "w": 986,
+    "h": 995,
+    "tn_w": 123,
+    "tn_h": 124,
+    "tim": 1689422894979937,
+    "time": 1689422894,
+    "md5": "Yoivdb1JZ7D8DB2pNijEOg==",
+    "fsize": 157317,
+    "resto": 94682366
+  },
+  {
+    "no": 94708851,
+    "now": "07/15/23(Sat)08:12:23",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708445\" class=\"quotelink\">&gt;&gt;94708445</a><br>I don&#039;t know how prevalent Node use on the backend really is, but why do you think that survey is unrepresentative? What stats are there that are more representative?<br><br>Actually here&#039;s another thing to consider - using React requires Node, right? Because the React dev server uses Node right? So maybe those people saying they use Node are not using it on the backend. They might just be using it for React and other frontend stuff.",
+    "time": 1689423143,
+    "resto": 94682366
+  },
+  {
+    "no": 94709316,
+    "now": "07/15/23(Sat)08:46:27",
+    "name": "Anonymous",
+    "com": ":: lol-nuzlocke ::<br>dev:: furnapso<br>tools:: python, react, fastapi, docker<br>link:: https://nuzlocke.lol/<br>repo:: https://github.com/furnapso/lol-nuz<wbr>locke<br>progress:: just released MVP1 - running in docker behind nginx reverse proxy. all automated through github actions! check it out, and let me know what you think",
+    "time": 1689425187,
+    "resto": 94682366
+  },
+  {
+    "no": 94709511,
+    "now": "07/15/23(Sat)08:59:11",
+    "name": "Anonymous",
+    "com": "I will answer your AWS questions until my morning coffee turns into a morning dump.<br><span class=\"quote\">&gt;what can I read to further my understanding?</span><br>don&#039;t. build something.",
+    "time": 1689425951,
+    "resto": 94682366
+  },
+  {
+    "no": 94709571,
+    "now": "07/15/23(Sat)09:03:20",
+    "name": "Anonymous",
+    "com": "why should i run my project on aws and not just a random vps",
+    "time": 1689426200,
+    "resto": 94682366
+  },
+  {
+    "no": 94709579,
+    "now": "07/15/23(Sat)09:03:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709511\" class=\"quotelink\">&gt;&gt;94709511</a><br>Is it possible to run a simple server app with, let&#039;s say, a few thousand hits per month, for less than $5 a month? If so, which product do I need to select to get this pricing?",
+    "time": 1689426215,
+    "resto": 94682366
+  },
+  {
+    "no": 94709605,
+    "now": "07/15/23(Sat)09:05:22",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709511\" class=\"quotelink\">&gt;&gt;94709511</a><br>why would I bother with aws when I can use a simple vps",
+    "time": 1689426322,
+    "resto": 94682366
+  },
+  {
+    "no": 94709607,
+    "now": "07/15/23(Sat)09:05:25",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709571\" class=\"quotelink\">&gt;&gt;94709571</a><br>What is your project? The nature of it will help me answer better.<br><a href=\"#p94709579\" class=\"quotelink\">&gt;&gt;94709579</a><br>A few thousand hits per month can be easily handled by API gateway + Lambda, and will likely fall into the free tier. It would be difficult to run on an &quot;always on&quot; server because even the smallest ones are priced higher than that.",
+    "time": 1689426325,
+    "resto": 94682366
+  },
+  {
+    "no": 94709626,
+    "now": "07/15/23(Sat)09:06:47",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709605\" class=\"quotelink\">&gt;&gt;94709605</a><br>Difficult to answer without having more details about your use case. A simple VPS might be exactly the right answer for you.",
+    "time": 1689426407,
+    "resto": 94682366
+  },
+  {
+    "no": 94709722,
+    "now": "07/15/23(Sat)09:13:10",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709579\" class=\"quotelink\">&gt;&gt;94709579</a><br>shitty random vps will do fine",
+    "time": 1689426790,
+    "resto": 94682366
+  },
+  {
+    "no": 94709771,
+    "now": "07/15/23(Sat)09:16:19",
+    "name": "Anonymous",
+    "com": "I&#039;d like to start a blog/personal site. I tried Wordpress but it&#039;s bloated and overly complex. I tried various static site generators but they are also overly complex. I don&#039;t want to spend 3 days reading documentation just so I can make a simple site. Should I just write static HTML manually?",
+    "time": 1689426979,
+    "resto": 94682366
+  },
+  {
+    "no": 94709801,
+    "now": "07/15/23(Sat)09:18:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709771\" class=\"quotelink\">&gt;&gt;94709771</a><br>you could write a couple of html templates and a backend function or two to append to them with client inputs",
+    "time": 1689427115,
+    "resto": 94682366
+  },
+  {
+    "no": 94710057,
+    "now": "07/15/23(Sat)09:39:48",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708790\" class=\"quotelink\">&gt;&gt;94708790</a><br>use NestJS if you want the full Spring Boot experience in nodejs",
+    "time": 1689428388,
+    "resto": 94682366
+  },
+  {
+    "no": 94710319,
+    "now": "07/15/23(Sat)09:59:52",
+    "name": "Anonymous",
+    "com": "something I found out I don&#039;t like about React<br><span class=\"quote\">&gt;multiple nested components that rely on a shared state</span><br>no problem, just create a context provider they can all access<br><span class=\"quote\">&gt;other set of components don&#039;t rely on the state but should be able to alter it</span><br>no problem, just let them also access the context provider<br><span class=\"quote\">&gt;two separate sets of components, two separate state sets they rely on, but they need to be able to alter each others&#039; state</span><br>The headache begins. Now I have to create a monolithic context provider that has all their states defined directly for this to work. I&#039;d like it if I could define separate sets of states with their own accessors for the provider to make things tidier, but instead I&#039;m just defining all the state vars in one place and I have to organize them into sections using comments.<br><br>Plus, defining multiple providers in charge of their own state is out of the question because their relationship is only one way at best. One can only provide context for the other, not read it.",
+    "time": 1689429592,
+    "resto": 94682366
+  },
+  {
+    "no": 94710399,
+    "now": "07/15/23(Sat)10:05:43",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710319\" class=\"quotelink\">&gt;&gt;94710319</a><br>just use RTK you fucking retard",
+    "time": 1689429943,
+    "resto": 94682366
+  },
+  {
+    "no": 94710492,
+    "now": "07/15/23(Sat)10:12:40",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710399\" class=\"quotelink\">&gt;&gt;94710399</a><br>what rules about being a retard on here is if you don&#039;t phrase your problem in the form of a question, someone will help you begrudgingly just to confirm publicly that they&#039;re better than you. Much thanks sar",
+    "time": 1689430360,
+    "resto": 94682366
+  },
+  {
+    "no": 94710495,
+    "now": "07/15/23(Sat)10:12:45",
+    "name": "Anonymous",
+    "com": "AAAAAAAAAAA",
+    "filename": "1689429961130878",
+    "ext": ".png",
+    "w": 468,
+    "h": 1017,
+    "tn_w": 57,
+    "tn_h": 125,
+    "tim": 1689430365988945,
+    "time": 1689430365,
+    "md5": "9tgFAehyPuf/WllL90rSBw==",
+    "fsize": 99434,
+    "resto": 94682366
+  },
+  {
+    "no": 94710668,
+    "now": "07/15/23(Sat)10:24:15",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710319\" class=\"quotelink\">&gt;&gt;94710319</a><br>At this point, why don&#039;t you just use something like pubsub-js to emit events across your components and hook into them as needed with callbacks? Seems a bit simpler than what you&#039;re talking about.",
+    "time": 1689431055,
+    "resto": 94682366
+  },
+  {
+    "no": 94710694,
+    "now": "07/15/23(Sat)10:26:15",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94709771\" class=\"quotelink\">&gt;&gt;94709771</a><br>Just use a static site generator like Hugo. You can build it using GitHub actions and deploy to GitHub sites. Ez.",
+    "time": 1689431175,
+    "resto": 94682366
+  },
+  {
+    "no": 94710725,
+    "now": "07/15/23(Sat)10:28:26",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682731\" class=\"quotelink\">&gt;&gt;94682731</a><br>Why wouldn&#039;t it when you can get one for free on less than a minute? https://letsencrypt.org/",
+    "time": 1689431306,
+    "resto": 94682366
+  },
+  {
+    "no": 94710851,
+    "now": "07/15/23(Sat)10:36:31",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682731\" class=\"quotelink\">&gt;&gt;94682731</a><br><a href=\"#p94710725\" class=\"quotelink\">&gt;&gt;94710725</a><br>It&#039;s already pretty easy to do but the guides for it on digitalocean&#039;s docs are especially handy if you are totally lost",
+    "time": 1689431791,
+    "resto": 94682366
+  },
+  {
+    "no": 94710856,
+    "now": "07/15/23(Sat)10:37:01",
+    "name": "Anonymous",
+    "com": "I swear HTML/CSS etc is harder than assembly. Why don&#039;t these things stay aligned god damn it",
+    "time": 1689431821,
+    "resto": 94682366
+  },
+  {
+    "no": 94710975,
+    "now": "07/15/23(Sat)10:44:15",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710851\" class=\"quotelink\">&gt;&gt;94710851</a><br>Can confirm, literally just did this tonight for my site in <a href=\"#p94709316\" class=\"quotelink\">&gt;&gt;94709316</a> and it took me a few minutes to set up.",
+    "time": 1689432255,
+    "resto": 94682366
+  },
+  {
+    "no": 94710981,
+    "now": "07/15/23(Sat)10:44:42",
+    "name": "Anonymous",
+    "com": "Dumb question but how do I get better? <br>I have a CS degree and 3 years experience now looking for my next job but I got no desire to program on my own without getting paid for it.<br>How do those wizard guys do it, how do you improve on your own?",
+    "time": 1689432282,
+    "resto": 94682366
+  },
+  {
+    "no": 94711178,
+    "now": "07/15/23(Sat)10:56:00",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;Java concepts are asked a lot in placement, and having done projects in spring boot will definitely make you stand out to the interviewer.</span><br>is this true?",
+    "time": 1689432960,
+    "resto": 94682366
+  },
+  {
+    "no": 94711878,
+    "now": "07/15/23(Sat)11:33:19",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;Java isn&#039;t beautifu-</span>",
+    "filename": "Screenshot from 2023-07-15 17-29-12",
+    "ext": ".png",
+    "w": 595,
+    "h": 625,
+    "tn_w": 119,
+    "tn_h": 125,
+    "tim": 1689435199136127,
+    "time": 1689435199,
+    "md5": "Nc2RC9l1HQxVaihkUKgxQQ==",
+    "fsize": 59464,
+    "resto": 94682366
+  },
+  {
+    "no": 94711995,
+    "now": "07/15/23(Sat)11:40:13",
+    "name": "Anonymous",
+    "com": "I love coding so much",
+    "time": 1689435613,
+    "resto": 94682366
+  },
+  {
+    "no": 94712102,
+    "now": "07/15/23(Sat)11:46:53",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710319\" class=\"quotelink\">&gt;&gt;94710319</a><br>use a state management lib like zustand",
+    "time": 1689436013,
+    "resto": 94682366
+  },
+  {
+    "no": 94712533,
+    "now": "07/15/23(Sat)12:10:53",
+    "name": "Anonymous",
+    "com": "What tool do you use for simulating http requests? I&#039;m using cURL now, anything better? Is Postman as bloated as it seems?",
+    "time": 1689437453,
+    "resto": 94682366
+  },
+  {
+    "no": 94712821,
+    "now": "07/15/23(Sat)12:29:02",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94702501\" class=\"quotelink\">&gt;&gt;94702501</a><br>Tables and forms are there retard. You can’t even look for more than 2 minutes. <a href=\"#p94705900\" class=\"quotelink\">&gt;&gt;94705900</a> is right",
+    "time": 1689438542,
+    "resto": 94682366
+  },
+  {
+    "no": 94712974,
+    "now": "07/15/23(Sat)12:39:16",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;finish uni and you will land a job</span><br><span class=\"quote\">&gt;okay now what</span><br><span class=\"quote\">&gt;actually, you need some basic projects at least</span><br><span class=\"quote\">&gt;i have them now what</span><br><span class=\"quote\">&gt;actually, you need to have 1 year of experience</span><br><span class=\"quote\">&gt;...</span><br><span class=\"quote\">&gt;oh and know 2 frameworks</span><br><span class=\"quote\">&gt;...</span><br><span class=\"quote\">&gt;and this shit will keep piling up faster than you can ever catch up - only possible if you are already working and actively learning on the job</span><br><span class=\"quote\">&gt;and this is for entry-level/internship</span><br><br>Fuck this shit. I want them to all fucking die.",
+    "filename": "file",
+    "ext": ".png",
+    "w": 736,
+    "h": 734,
+    "tn_w": 125,
+    "tn_h": 124,
+    "tim": 1689439156739590,
+    "time": 1689439156,
+    "md5": "8h+dFIRikGYDP9MSoYR+Ng==",
+    "fsize": 410302,
+    "resto": 94682366
+  },
+  {
+    "no": 94713051,
+    "now": "07/15/23(Sat)12:43:36",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94712974\" class=\"quotelink\">&gt;&gt;94712974</a><br><span class=\"quote\">&gt;&gt;finish uni and you will land a job</span><br>who told you that? Uni is important for sure but it does not guarantee shit.<br><span class=\"quote\">&gt;actually, you need some basic projects at least</span><br>I think this is mostly a meme. More importantly, try to make a good impression during the interview, both with your soft as well as hard skills.<br><span class=\"quote\">&gt;oh and know 2 frameworks</span><br>actually just one larger is okay, pick either Spring or .NET and you&#039;re set, bud. Don&#039;t go into JS or fronted cluster fuck at all, fuck those soi devs and their shit frameworks.",
+    "time": 1689439416,
+    "resto": 94682366
+  },
+  {
+    "no": 94713214,
+    "now": "07/15/23(Sat)12:54:47",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713051\" class=\"quotelink\">&gt;&gt;94713051</a><br>Here is what i have:<br><span class=\"quote\">&gt;finished uni with CS BEng degree</span><br><span class=\"quote\">&gt;now doing Master&#039;s with thesis on graph databases</span><br><span class=\"quote\">&gt;had a multiple month front-end internship thanks to a friend, learning HTML, CSS, SASS, Bootstrap, Webpack etc.</span><br><span class=\"quote\">&gt;did some basic front-end projects from courses like Odin etc. and basic models and landing page for a furniture store</span><br><span class=\"quote\">&gt;i did database migration for e-commerce store, scraping script for football betting sites, hackathon with honorary mention making a bulletin board site, backend for a gallery site</span><br>I am told it&#039;s STILL not fucking enough. I need TS, and 2 frameworks at least according to one guy to even try to land anything.<br>Seriously what the fuck. I am genuinely considering giving the fuck up and working as some fucking store clerk or something because if this shit cannot land you even a fucking INTERNSHIP, then shit&#039;s fucked. I sent like 80 resumes and asked around in so many places it&#039;s insane. Still not fucking enough. It&#039;s like a bad fucking joke.",
+    "time": 1689440087,
+    "resto": 94682366
+  },
+  {
+    "no": 94713319,
+    "now": "07/15/23(Sat)13:00:46",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713214\" class=\"quotelink\">&gt;&gt;94713214</a><br><span class=\"quote\">&gt;&gt;now doing Master&#039;s with thesis on graph databases</span><br>and why are you trying to break into frontshit? Honestly you sound too smart to smart to work as some JS minimum wage cuck, and you&#039;ll likely hate it too after first few months (speaking from experience). Why not choose something more ambitious and interesting, like ML, Big Data or backend for that matter?",
+    "time": 1689440446,
+    "resto": 94682366
+  },
+  {
+    "no": 94713500,
+    "now": "07/15/23(Sat)13:12:37",
+    "name": "Anonymous",
+    "com": "<pre class=\"prettyprint\">const validURL = /^(https?:\\/\\/)?([a-z0-9]+(-[a-z0-9<wbr>]+)*\\.)+[a-z0-9-]+$/i;<br>const protocol = /^(https?:\\/\\/)/i;<br>if (validURL.test(urlValue)) {<br>    if (!protocol.test(urlValue)) {<br>        urlValue = &quot;https://&quot; + urlValue;<br>    }<br>}<br></pre><br><br>Is there any better way to validate a url? To be specific I am looking for built-in features to avoid the regex stuff. My requirements are validating the url where it may or may not have a protocol. If the protocol does not exist, then append &quot;https://&quot; to the protocol.",
+    "time": 1689441157,
+    "resto": 94682366
+  },
+  {
+    "no": 94713904,
+    "now": "07/15/23(Sat)13:36:42",
+    "name": "Anonymous",
+    "com": "I&#039;ve been a NEET for 3 years, what should I put on my resume when I apply for roles? Just make shit up?<br><br>A friend of mine told me that they never ask for references if you work temporarily for agencies or something so should I just pretend I was doing that?",
+    "time": 1689442602,
+    "resto": 94682366
+  },
+  {
+    "no": 94714469,
+    "now": "07/15/23(Sat)14:10:04",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713500\" class=\"quotelink\">&gt;&gt;94713500</a><br>the URL constructor will do some validation for you but it doesn&#039;t catch everything<br>https://developer.mozilla.org/en-US<wbr>/docs/Web/API/URL/URL<br><pre class=\"prettyprint\">new URL(&quot;abcd&quot;); // error<br>new URL(&quot;http/:/abcd&quot;); // error<br>new URL(&quot;http//abcd&quot;); // error<br>new URL(&quot;http:abcd&quot;); // ok (probably not what you want though)<br>new URL(&quot;http://abcd&quot;); // ok<br></pre><br>what you could do though is something like this<br><pre class=\"prettyprint\">const badUrl = &quot;http:abcd&quot;;<br>try {<br>  if (!badUrl.startsWith(&quot;http://&quot;) || !badUrl.startsWith(&quot;https://&quot;) throw &quot;Invalid URL&quot;;<br>  const url = new URL(badUrl);<br>  // url is ok if it gets to here<br>} catch (err) {<br>  // handle error<br>}<br></pre>",
+    "time": 1689444604,
+    "resto": 94682366
+  },
+  {
+    "no": 94714487,
+    "now": "07/15/23(Sat)14:11:04",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94708461\" class=\"quotelink\">&gt;&gt;94708461</a><br>is this real?",
+    "time": 1689444664,
+    "resto": 94682366
+  },
+  {
+    "no": 94714592,
+    "now": "07/15/23(Sat)14:16:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94714469\" class=\"quotelink\">&gt;&gt;94714469</a><br>I took a look at that constructor as well and concluded that it wasn&#039;t really within my use case since I don&#039;t make use of both the parameters. Tried, gpt and it also told me to use that constructor. I guess regex is cleaner for what I am doing.",
+    "filename": "Screenshot 2023-07-16 at 02-14-41 URL URL() constructor - Web APIs MDN",
+    "ext": ".png",
+    "w": 711,
+    "h": 524,
+    "tn_w": 125,
+    "tn_h": 92,
+    "tim": 1689444994942443,
+    "time": 1689444994,
+    "md5": "6vqy1q9S9f8quEFAwNXY+g==",
+    "fsize": 40730,
+    "resto": 94682366
+  },
+  {
+    "no": 94714726,
+    "now": "07/15/23(Sat)14:22:17",
+    "name": "Anonymous",
+    "com": "Wanted to animate opacity and width/height in a cyclic animation. Fine on Firefox and Chrome, glitches out on Safari. Turns out it&#039;s a known bug deep in Safari that probably won&#039;t ever be fixed.<br>Okay.<br>Wanted to use paint-order to fix the obviously wrong default paint order of font stroke so that the site can use font stroke. Oops not supported in Chrome.<br>Okay.<br>Wanted to use blurred backdrop on dynamic element. Glitches out on Safari because their optimization is broken. Can be fixed with will-change, but you have to know about will-change first. Tribal knowledge.<br>Okay.<br>Want to iterate over results of querySelectorAll. NodeList doesn&#039;t have forEach.<br>Okay.<br>Seriously I hate the retards that made the web and who keep the mongoloid neanderthal technologies on life support instead of letting it die with dignity in 1994 like it should have.",
+    "time": 1689445337,
+    "resto": 94682366
+  },
+  {
+    "no": 94715610,
+    "now": "07/15/23(Sat)15:06:22",
+    "name": "Anonymous",
+    "com": "<pre class=\"prettyprint\">//...<br><br>return fetch(`http://${getApiUrl()}/commen<wbr>t/${comment.id}/`, {<br>      method: &quot;PATCH&quot;,<br>      body: JSON.stringify(payload),<br>    }).then((res) =&gt; {<br>      if (res.ok) {<br>        res.json().then((data) =&gt; {<br>          snackbar(data.message ?? &quot;ok&quot;, &quot;success&quot;)<br>          setIsLoading(false);<br>        }).catch((err) =&gt; {<br>          snackbar(err, &quot;error&quot;)<br>          setIsLoading(false);<br>        });<br>      } else {<br>        res.json().then((data) =&gt; {<br>          snackbar(data, &quot;warning&quot;)<br>          setIsLoading(false);<br>        }).catch((err) =&gt; {<br>          snackbar(err, &quot;error&quot;)<br>          setIsLoading(false);<br>        });<br>      }<br>    });<br>  }<br></pre><br><br>Are you fucking kidding me?",
+    "time": 1689447982,
+    "resto": 94682366
+  },
+  {
+    "no": 94716118,
+    "now": "07/15/23(Sat)15:31:59",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94715610\" class=\"quotelink\">&gt;&gt;94715610</a><br><span class=\"quote\">&gt;try to reinvent the wheel, and do it poorly</span><br><span class=\"quote\">&gt;surprised it turns out looking like shit</span><br>just use a fetching library, dummy",
+    "time": 1689449519,
+    "resto": 94682366
+  },
+  {
+    "no": 94716156,
+    "now": "07/15/23(Sat)15:34:11",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94715610\" class=\"quotelink\">&gt;&gt;94715610</a><br>just use async/await this is cancer",
+    "time": 1689449651,
+    "resto": 94682366
+  },
+  {
+    "no": 94716223,
+    "now": "07/15/23(Sat)15:37:00",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716156\" class=\"quotelink\">&gt;&gt;94716156</a><br>see <a href=\"#p94716118\" class=\"quotelink\">&gt;&gt;94716118</a><br>manually writing functions for fetching and/or mutations is cancer, not promise chaining necessarily<br>but yeah async / await is cleaner and easier",
+    "time": 1689449820,
+    "resto": 94682366
+  },
+  {
+    "no": 94716322,
+    "now": "07/15/23(Sat)15:41:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94715610\" class=\"quotelink\">&gt;&gt;94715610</a><br><pre class=\"prettyprint\">const res = await fetch(`http://${getApiUrl()}/commen<wbr>t/${comment.id}/`, {<br>  method: &quot;PATCH&quot;,<br>  body: JSON.stringify(payload),<br>});<br>if (res.ok) {<br>  try {<br>    const data = await res.json();<br>    snackbar(data.message ?? &quot;ok&quot;, &quot;success&quot;);<br>  } catch (err) {<br>    snackbar(err, &quot;error&quot;);<br>  } finally {<br>    setIsLoading(false);<br>  }<br>} else {<br>  try {<br>    const data = await res.json();<br>    snackbar(data, &quot;warning&quot;);<br>  } catch (err) {<br>    snackbar(err, &quot;error&quot;);<br>  } finally {<br>    setIsLoading(false);<br>  }<br>}<br></pre>",
+    "time": 1689450095,
+    "resto": 94682366
+  },
+  {
+    "no": 94716521,
+    "now": "07/15/23(Sat)15:52:38",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716322\" class=\"quotelink\">&gt;&gt;94716322</a><br><pre class=\"prettyprint\">const res = await fetch(`http://${getApiUrl()}/commen<wbr>t/${comment.id}/`, {<br>  method: &quot;PATCH&quot;,<br>  body: JSON.stringify(payload),<br>})<br>const data = await res.json()<br>try {<br>  if (res.ok)<br>    snackbar(data.message ?? &quot;ok&quot;, &quot;success&quot;)<br>  else<br>    snackbar(data, &quot;warning&quot;)<br>} catch (err) {<br>  snackbar(err, &quot;error&quot;)<br>} finally {<br>  setIsLoading(false)<br>}</pre>",
+    "time": 1689450758,
+    "resto": 94682366
+  },
+  {
+    "no": 94716579,
+    "now": "07/15/23(Sat)15:55:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716521\" class=\"quotelink\">&gt;&gt;94716521</a><br>almost looks like good old xhr",
+    "time": 1689450934,
+    "resto": 94682366
+  },
+  {
+    "no": 94716597,
+    "now": "07/15/23(Sat)15:56:17",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716521\" class=\"quotelink\">&gt;&gt;94716521</a>",
+    "filename": "apu thumbs up",
+    "ext": ".jpg",
+    "w": 680,
+    "h": 544,
+    "tn_w": 125,
+    "tn_h": 100,
+    "tim": 1689450977549335,
+    "time": 1689450977,
+    "md5": "Mib/7Pz8vLPFL1asR3vdRg==",
+    "fsize": 33503,
+    "resto": 94682366
+  },
+  {
+    "no": 94716617,
+    "now": "07/15/23(Sat)15:57:27",
+    "name": "Anonymous",
+    "com": "what website in your opinion has the best dark theme? Mostly asking about the background + text color combo since I noticed a bunch of websites have too high contrast between those and it hurts to read them",
+    "time": 1689451047,
+    "resto": 94682366
+  },
+  {
+    "no": 94716736,
+    "now": "07/15/23(Sat)16:03:08",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716521\" class=\"quotelink\">&gt;&gt;94716521</a><br><a href=\"#p94716322\" class=\"quotelink\">&gt;&gt;94716322</a><br>retards",
+    "time": 1689451388,
+    "resto": 94682366
+  },
+  {
+    "no": 94716864,
+    "now": "07/15/23(Sat)16:08:53",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716736\" class=\"quotelink\">&gt;&gt;94716736</a><br>post your version",
+    "time": 1689451733,
+    "resto": 94682366
+  },
+  {
+    "no": 94716905,
+    "now": "07/15/23(Sat)16:10:39",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716864\" class=\"quotelink\">&gt;&gt;94716864</a><br><pre class=\"prettyprint\">const { data, isLoading, isError } = useGetCommentQuery(comment.id);<br></pre><br><br>now rope, faggot",
+    "time": 1689451839,
+    "resto": 94682366
+  },
+  {
+    "no": 94716993,
+    "now": "07/15/23(Sat)16:15:28",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716905\" class=\"quotelink\">&gt;&gt;94716905</a><br>you didn&#039;t post anything",
+    "filename": "1488045217862",
+    "ext": ".png",
+    "w": 1366,
+    "h": 768,
+    "tn_w": 125,
+    "tn_h": 70,
+    "tim": 1689452128713031,
+    "time": 1689452128,
+    "md5": "Kpc7IESea+Cyrl5NSfk1kw==",
+    "fsize": 1186960,
+    "resto": 94682366
+  },
+  {
+    "no": 94717034,
+    "now": "07/15/23(Sat)16:17:55",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716993\" class=\"quotelink\">&gt;&gt;94716993</a><br>kek",
+    "filename": "1484618803216",
+    "ext": ".webm",
+    "w": 1920,
+    "h": 1080,
+    "tn_w": 125,
+    "tn_h": 70,
+    "tim": 1689452275693809,
+    "time": 1689452275,
+    "md5": "iyAJ/V6Dlp0iMHTgMG6PCg==",
+    "fsize": 2588144,
+    "resto": 94682366
+  },
+  {
+    "no": 94717035,
+    "now": "07/15/23(Sat)16:17:57",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94716993\" class=\"quotelink\">&gt;&gt;94716993</a><br><span class=\"quote\">&gt;filtered by hooks</span><br>Do retards really? <br>Also unlike your retarded ass I don&#039;t waste time reinventing the wheel, and you shouldn&#039;t either.",
+    "time": 1689452277,
+    "resto": 94682366
+  },
+  {
+    "no": 94717135,
+    "now": "07/15/23(Sat)16:24:09",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94717035\" class=\"quotelink\">&gt;&gt;94717035</a><br>you shifted all the code elsewhere and then posted a single line, not showing or explaining what you did with everything else",
+    "time": 1689452649,
+    "resto": 94682366
+  },
+  {
+    "no": 94717169,
+    "now": "07/15/23(Sat)16:26:29",
+    "name": "Anonymous",
+    "com": "I finished yesterday my first week of apprenticeship at this web/dev/communication agency after 3.5months of dev bootcamp, feels good man.<br><br><span class=\"quote\">&gt;php</span><br><span class=\"quote\">&gt;node</span><br><span class=\"quote\">&gt;vue.js</span><br>Etc, etc<br>Way more entertaining so far than my former project management job<br><br>Have a nive weekend anons",
+    "filename": "20230602_202634",
+    "ext": ".jpg",
+    "w": 623,
+    "h": 929,
+    "tn_w": 83,
+    "tn_h": 125,
+    "tim": 1689452789274156,
+    "time": 1689452789,
+    "md5": "XTS4hlqjJqJg+2bR1umhlQ==",
+    "fsize": 68352,
+    "resto": 94682366
+  },
+  {
+    "no": 94717186,
+    "now": "07/15/23(Sat)16:27:26",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94717169\" class=\"quotelink\">&gt;&gt;94717169</a><br>nice",
+    "time": 1689452846,
+    "resto": 94682366
+  },
+  {
+    "no": 94717586,
+    "now": "07/15/23(Sat)16:50:37",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713214\" class=\"quotelink\">&gt;&gt;94713214</a><br><span class=\"quote\">&gt;I sent like 80 resumes</span><br>And you didn&#039;t even have one single interview? Then your resume probably sucks.",
+    "time": 1689454237,
+    "resto": 94682366
+  },
+  {
+    "no": 94717896,
+    "now": "07/15/23(Sat)17:09:11",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94717135\" class=\"quotelink\">&gt;&gt;94717135</a><br>What he&#039;s showing is idiomatic and what you&#039;re showing isn&#039;t. You&#039;re the one behind the curve.",
+    "time": 1689455351,
+    "resto": 94682366
+  },
+  {
+    "no": 94718649,
+    "now": "07/15/23(Sat)17:50:07",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713319\" class=\"quotelink\">&gt;&gt;94713319</a><br>Not getting job even after having &quot;multi-month&quot; internship is enough evidence he lacks half a brain and has extremely bad resume. If he was good he would&#039;ve gotten offer from the same company he had internship in right after internship.",
+    "time": 1689457807,
+    "resto": 94682366
+  },
+  {
+    "no": 94719130,
+    "now": "07/15/23(Sat)18:16:55",
+    "name": "Anonymous",
+    "com": "What&#039;s the BEST resource to learn React?",
+    "time": 1689459415,
+    "resto": 94682366
+  },
+  {
+    "no": 94719244,
+    "now": "07/15/23(Sat)18:22:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719130\" class=\"quotelink\">&gt;&gt;94719130</a><br>That&#039;s probably not what you want to hear but the doc.",
+    "time": 1689459754,
+    "resto": 94682366
+  },
+  {
+    "no": 94719376,
+    "now": "07/15/23(Sat)18:28:37",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;React</span>",
+    "filename": "wojak-soy-boy-muscle-shirt",
+    "ext": ".png",
+    "w": 252,
+    "h": 268,
+    "tn_w": 117,
+    "tn_h": 125,
+    "tim": 1689460117432683,
+    "time": 1689460117,
+    "md5": "4qI5304CAudWOukuzkOjmg==",
+    "fsize": 23618,
+    "resto": 94682366
+  },
+  {
+    "no": 94719418,
+    "now": "07/15/23(Sat)18:30:42",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719376\" class=\"quotelink\">&gt;&gt;94719376</a><br>This<br>Front end is for redditards<br>Backend is necessary for a secure site",
+    "time": 1689460242,
+    "resto": 94682366
+  },
+  {
+    "no": 94719494,
+    "now": "07/15/23(Sat)18:34:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719418\" class=\"quotelink\">&gt;&gt;94719418</a><br>I can tell you&#039;re very accomplished and know what you&#039;re talking about when you describe backend this way.",
+    "time": 1689460474,
+    "resto": 94682366
+  },
+  {
+    "no": 94719509,
+    "now": "07/15/23(Sat)18:35:38",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94712974\" class=\"quotelink\">&gt;&gt;94712974</a><br>If you didnt land a job before you finished uni you&#039;re socially inept and missed the point.",
+    "time": 1689460538,
+    "resto": 94682366
+  },
+  {
+    "no": 94719618,
+    "now": "07/15/23(Sat)18:40:01",
+    "name": "Anonymous",
+    "com": "hi, what the fuck are these things called and how do I get rid of them?",
+    "filename": "wtf",
+    "ext": ".png",
+    "w": 17,
+    "h": 248,
+    "tn_w": 8,
+    "tn_h": 125,
+    "tim": 1689460801610129,
+    "time": 1689460801,
+    "md5": "D5vhQB03l8OxJcudAzadqw==",
+    "fsize": 430,
+    "resto": 94682366
+  },
+  {
+    "no": 94719721,
+    "now": "07/15/23(Sat)18:45:24",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719618\" class=\"quotelink\">&gt;&gt;94719618</a><br>Missing character set. Either you need to install a font on your PC that covers the specific Unicode range there, or load a font on the web page that contains it.",
+    "time": 1689461124,
+    "resto": 94682366
+  },
+  {
+    "no": 94719824,
+    "now": "07/15/23(Sat)18:50:12",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682366\" class=\"quotelink\">&gt;&gt;94682366</a><br>STOP USING TAILWIND, I&#039;M TIRED OF REPLACING YOUR HUNDRED COPY AND PASTED ELEMENTS WITH THE EXACT SAME STYLING FOR PROPER CLASSES, SERIOUSLY KILL YOURSELF IF YOU EVER USE IT, CSS ISN&#039;T EVEN DIFFICULT TO LEARN.",
+    "time": 1689461412,
+    "resto": 94682366
+  },
+  {
+    "no": 94719936,
+    "now": "07/15/23(Sat)18:56:19",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710057\" class=\"quotelink\">&gt;&gt;94710057</a><br><span class=\"quote\">&gt;nestjs</span><br><span class=\"quote\">&gt;the full spring boot experience</span><br>o i am laffin",
+    "time": 1689461779,
+    "resto": 94682366
+  },
+  {
+    "no": 94720035,
+    "now": "07/15/23(Sat)19:01:54",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94712533\" class=\"quotelink\">&gt;&gt;94712533</a><br><span class=\"quote\">&gt;bloated</span><br>Postman is fine. Electron is fine. Stop falling for /g/ memes.<br>There was a similar one called Insomnia maybe you&#039;d like more, but you couldn&#039;t even save variables dynamically.<br>Or just use swagger.",
+    "time": 1689462114,
+    "resto": 94682366
+  },
+  {
+    "no": 94720205,
+    "now": "07/15/23(Sat)19:12:23",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719721\" class=\"quotelink\">&gt;&gt;94719721</a><br>Absolute gigachad. It was the first font I downloaded:<br>https://fonts2u.com/code2000.font",
+    "filename": "BobParisFullBdyBW",
+    "ext": ".jpg",
+    "w": 389,
+    "h": 764,
+    "tn_w": 63,
+    "tn_h": 125,
+    "tim": 1689462743438233,
+    "time": 1689462743,
+    "md5": "xZImAl9dsiGds/carX51IA==",
+    "fsize": 39968,
+    "resto": 94682366
+  },
+  {
+    "no": 94720265,
+    "now": "07/15/23(Sat)19:17:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719494\" class=\"quotelink\">&gt;&gt;94719494</a><br>Yoshi!!",
+    "time": 1689463055,
+    "resto": 94682366
+  },
+  {
+    "no": 94720277,
+    "now": "07/15/23(Sat)19:18:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94720205\" class=\"quotelink\">&gt;&gt;94720205</a><br>What a tiny little manlet<br>Fuck men",
+    "time": 1689463115,
+    "resto": 94682366
+  },
+  {
+    "no": 94720939,
+    "now": "07/15/23(Sat)20:02:36",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94712533\" class=\"quotelink\">&gt;&gt;94712533</a><br>Postman/insomnia, httpie if you want cli, there is a rest client extension for vscode that works really well",
+    "time": 1689465756,
+    "resto": 94682366
+  },
+  {
+    "no": 94721024,
+    "now": "07/15/23(Sat)20:08:27",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719824\" class=\"quotelink\">&gt;&gt;94719824</a><br>you don&#039;t know how to use css",
+    "time": 1689466107,
+    "resto": 94682366
+  },
+  {
+    "no": 94721068,
+    "now": "07/15/23(Sat)20:12:32",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713214\" class=\"quotelink\">&gt;&gt;94713214</a><br>Bro, you sound like you have the skills and the smarts. The issue is likely your presentation, soft skills and resume. Get your resume reviewed by a professional (pay for it if necessary), read &quot;basic interviewing skills&quot; and &quot;how to win friends and influence people&quot;. Wear a combo to the interview from mfas basic bastard wardrobe: https://jargonstyle.com/basic-basta<wbr>rd-wardrobe/<br>If you have facial hair, unless it&#039;s a full beard, I guarantee you it looks fucking retarded to anyone but you. Shave it.<br><br>I promise you if you do the above, you&#039;ll get a job within a month.",
+    "time": 1689466352,
+    "resto": 94682366
+  },
+  {
+    "no": 94721333,
+    "now": "07/15/23(Sat)20:31:43",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94715610\" class=\"quotelink\">&gt;&gt;94715610</a><br><a href=\"#p94716322\" class=\"quotelink\">&gt;&gt;94716322</a><br><a href=\"#p94716521\" class=\"quotelink\">&gt;&gt;94716521</a><br>literally all retarded. goes to show how much poor advice there is in this thread. barely anyone here actually works as a webdev.<br><br>related docs, since none of you have read them:<br>https://developer.mozilla.org/en-US<wbr>/docs/Web/API/Fetch_API<br>https://developer.mozilla.org/en-US<wbr>/docs/Web/JavaScript/Reference/Glob<wbr>al_Objects/Promise<br><br><pre class=\"prettyprint\">fetch(`http://${getApiUrl()}/commen<wbr>t/${comment.id}/`, {<br>  method: &quot;PATCH&quot;,<br>  body: JSON.stringify(payload),<br>})<br>  .then((r) =&gt; r.json())<br>  .then((d) =&gt; {<br>    snackbar(d.message ? &quot;ok&quot; : &quot;success&quot;);<br>  })<br>  .catch((e) =&gt; {<br>    snackbar(e, &quot;error&quot;);<br>  })<br>  .finally(() =&gt; {<br>    setIsLoading(false);<br>  });</pre>",
+    "time": 1689467503,
+    "resto": 94682366
+  },
+  {
+    "no": 94721610,
+    "now": "07/15/23(Sat)20:46:25",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719824\" class=\"quotelink\">&gt;&gt;94719824</a><br>you&#039;re not supposed to use tailwind without a framework that allows you to make reusable components.",
+    "time": 1689468385,
+    "resto": 94682366
+  },
+  {
+    "no": 94721964,
+    "now": "07/15/23(Sat)21:07:21",
+    "name": "Anonymous",
+    "com": "Spring!!",
+    "filename": "Spring",
+    "ext": ".png",
+    "w": 850,
+    "h": 1511,
+    "tn_w": 70,
+    "tn_h": 125,
+    "tim": 1689469641281174,
+    "time": 1689469641,
+    "md5": "jhKqracFhPdAgrFOOrV6kQ==",
+    "fsize": 2216082,
+    "resto": 94682366
+  },
+  {
+    "no": 94722079,
+    "now": "07/15/23(Sat)21:14:56",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94719376\" class=\"quotelink\">&gt;&gt;94719376</a><br>what do you prefer",
+    "time": 1689470096,
+    "resto": 94682366
+  },
+  {
+    "no": 94722717,
+    "now": "07/15/23(Sat)21:55:35",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94722079\" class=\"quotelink\">&gt;&gt;94722079</a><br>anything that doesn&#039;t use jsx",
+    "time": 1689472535,
+    "resto": 94682366
+  },
+  {
+    "no": 94722839,
+    "now": "07/15/23(Sat)22:05:24",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713214\" class=\"quotelink\">&gt;&gt;94713214</a><br>do you have a portfolio ?  And a github ?  Usually you can get a job with some decent projects on your github and nothing else.  Put links to your portfolio and github at the top of your resume, and attach a page to the back of your resume with a short list of things you&#039;ve done recently.  Employers just want to see you can make things.  It sounds like you have enough, maybe it&#039;s just not presented properly.  Seeing as you&#039;re at university again, maybe make a SaaS or something in your free time, that way you&#039;ll have something decent for your portfolio and you might be able to make some money from it too maybe",
+    "time": 1689473124,
+    "resto": 94682366
+  },
+  {
+    "no": 94723125,
+    "now": "07/15/23(Sat)22:24:49",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94720277\" class=\"quotelink\">&gt;&gt;94720277</a><br>lol he&#039;s 6&#039;1<br>get off the internet",
+    "time": 1689474289,
+    "resto": 94682366
+  },
+  {
+    "no": 94723374,
+    "now": "07/15/23(Sat)22:42:23",
+    "name": "Anonymous",
+    "com": "Is it possible ot use a for loop for a property in scss?<br><br>I basically want 20 classes: --font-glow-strength-1, --font-glow-strength-2, --font-glow-strength-n ...etc. and each of these classes should have <pre class=\"prettyprint\">text-shadow: 0 0 4px black, </pre> n times.<br>So basically:<br><pre class=\"prettyprint\">--font-glow-strength-1 {<br>text-shadow: 0 0 4px black;<br>}<br>--font-glow-strength-2 {<br>text-shadow: 0 0 4px black, 0 0 4px black;<br>}<br>--font-glow-strength-3 {<br>text-shadow: 0 0 4px black, 0 0 4px black, 0 0 4px black;<br>}<br></pre><br>etc.<br><br>I&#039;m a newb at SCSS, I started like this, but inline @for doesn&#039;t work<br><pre class=\"prettyprint\">    @for $i from 1 through 20 {<br>        --font-glow-strength-#{$i}: ...@for $j...<br>    }<br></pre>",
+    "time": 1689475343,
+    "resto": 94682366
+  },
+  {
+    "no": 94723711,
+    "now": "07/15/23(Sat)23:04:37",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94723374\" class=\"quotelink\">&gt;&gt;94723374</a><br>Nvm figured it out with the help of phind<br><pre class=\"prettyprint\">@mixin create-classes {<br>    @for $i from 1 through 20 {<br>        &amp;.font-glow-strength-#{$i} {<br>            $value : &#039;&#039;;<br>            @for $j from 1 through $i {<br>                $value : $value + &#039;0 0 4px var(--font-glow-color),&#039;;<br>            }<br>            text-shadow : unquote($value);<br>        }<br>    }<br>}<br>body{<br>@include create-classes;<br>}<br></pre>",
+    "time": 1689476677,
+    "resto": 94682366
+  },
+  {
+    "no": 94724622,
+    "now": "07/16/23(Sun)00:10:41",
+    "name": "Anonymous",
+    "com": "today I just learned about the &#039;Accept&#039; header and how you can use it to specify which formats you like<br>so why hasn&#039;t somebody made a chrome extension that uses that to block webp? shouldn&#039;t that be trivial for one of you web nerds?<br><br>I know there are some extensions that let you edit headers in general but ideally it would be something JUST for killing webp, that could hopefully lead to its demise",
+    "time": 1689480641,
+    "resto": 94682366
+  },
+  {
+    "no": 94724689,
+    "now": "07/16/23(Sun)00:15:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724622\" class=\"quotelink\">&gt;&gt;94724622</a><br>This exists on firefox.<br>Make one?",
+    "filename": "",
+    "ext": ".png",
+    "w": 376,
+    "h": 113,
+    "tn_w": 125,
+    "tn_h": 37,
+    "tim": 1689480934882045,
+    "time": 1689480934,
+    "md5": "5P1cpfi+UQ3h6U4VvFN7uQ==",
+    "fsize": 17785,
+    "resto": 94682366
+  },
+  {
+    "no": 94724833,
+    "now": "07/16/23(Sun)00:25:09",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724689\" class=\"quotelink\">&gt;&gt;94724689</a><br>wish I had time to, but opportunity cost and all that<br>maybe if I have a slow week I can poke around with the extension tutorials and see how much work it would be",
+    "time": 1689481509,
+    "resto": 94682366
+  },
+  {
+    "no": 94724849,
+    "now": "07/16/23(Sun)00:26:32",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;LAMP stack is...LE BAD</span><br>When and why did this become the prevailing sentiment in the industry?",
+    "time": 1689481592,
+    "resto": 94682366
+  },
+  {
+    "no": 94724865,
+    "now": "07/16/23(Sun)00:27:45",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724849\" class=\"quotelink\">&gt;&gt;94724849</a><br>who are you quoting?",
+    "time": 1689481665,
+    "resto": 94682366
+  },
+  {
+    "no": 94724874,
+    "now": "07/16/23(Sun)00:28:17",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724849\" class=\"quotelink\">&gt;&gt;94724849</a><br>uhh because things evolve and it&#039;s not 2003 anymore?<br>I don&#039;t think it&#039;s so much &quot;bad&quot; as &quot;irrelevant&quot;",
+    "time": 1689481697,
+    "resto": 94682366
+  },
+  {
+    "no": 94724902,
+    "now": "07/16/23(Sun)00:29:43",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724865\" class=\"quotelink\">&gt;&gt;94724865</a><br>Every worthless non-technical colleague I&#039;ve worked with",
+    "time": 1689481783,
+    "resto": 94682366
+  },
+  {
+    "no": 94724932,
+    "now": "07/16/23(Sun)00:31:33",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724849\" class=\"quotelink\">&gt;&gt;94724849</a><br>I&#039;ve literally never heard anyone say this.",
+    "time": 1689481893,
+    "resto": 94682366
+  },
+  {
+    "no": 94724993,
+    "now": "07/16/23(Sun)00:35:02",
+    "name": "Anonymous",
+    "com": "Aaaaaa why are there so many resources bros? What do i do? Cs50, fullstackopen, Java nanodegree, leetcode, scrimba&#039;s react, learnaifromscratch, sicp, parberry<br>I&#039;m thinking of sticking to scrimba since it seems beginner friendly and like I could actually complete it",
+    "time": 1689482102,
+    "resto": 94682366
+  },
+  {
+    "no": 94725117,
+    "now": "07/16/23(Sun)00:45:53",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724993\" class=\"quotelink\">&gt;&gt;94724993</a><br>find a very expensive course that will cause you serious pain if you don&#039;t finish it<br>you have too many choices and no motivation to stick with any of them",
+    "time": 1689482753,
+    "resto": 94682366
+  },
+  {
+    "no": 94725229,
+    "now": "07/16/23(Sun)00:56:15",
+    "name": "Anonymous",
+    "com": "is php faster than python?",
+    "time": 1689483375,
+    "resto": 94682366
+  },
+  {
+    "no": 94725547,
+    "now": "07/16/23(Sun)01:26:35",
+    "name": "Anonymous",
+    "com": "How do I properly learn async/await?<br>I can use promise chaining fine, but when I have to write an async function I just randomly put await or wrap things up in Promises and just pray it will work",
+    "time": 1689485195,
+    "resto": 94682366
+  },
+  {
+    "no": 94725957,
+    "now": "07/16/23(Sun)02:00:43",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94717586\" class=\"quotelink\">&gt;&gt;94717586</a><br>I had one interview for Siemens, but failed it. Then again i heard they had hundreds of people applying so i&#039;m not that surprised.",
+    "time": 1689487243,
+    "resto": 94682366
+  },
+  {
+    "no": 94726088,
+    "now": "07/16/23(Sun)02:10:20",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94725547\" class=\"quotelink\">&gt;&gt;94725547</a><br>https://javascript.info/async",
+    "time": 1689487820,
+    "resto": 94682366
+  },
+  {
+    "no": 94726543,
+    "now": "07/16/23(Sun)02:42:19",
+    "name": "Anonymous",
+    "com": "tailwind is based",
+    "time": 1689489739,
+    "resto": 94682366
+  },
+  {
+    "no": 94726570,
+    "now": "07/16/23(Sun)02:44:23",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94726543\" class=\"quotelink\">&gt;&gt;94726543</a><br>retarded bot",
+    "time": 1689489863,
+    "resto": 94682366
+  },
+  {
+    "no": 94726626,
+    "now": "07/16/23(Sun)02:49:16",
+    "name": "Anonymous",
+    "com": "the tailwind shilling will continue until morale improves",
+    "time": 1689490156,
+    "resto": 94682366
+  },
+  {
+    "no": 94726783,
+    "now": "07/16/23(Sun)03:04:05",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724849\" class=\"quotelink\">&gt;&gt;94724849</a><br>Wait what ? Why ?<br><br><a href=\"#p94724874\" class=\"quotelink\">&gt;&gt;94724874</a><br>What is relevant now ? (No sarcasm, im new to the webdev world, genuinely asking)<br>I have a xampp stack on linux and it does its job, i know there are other things like mongodb node etc, are those the less &quot;irrelevant&quot; stuff ?<br><br><a href=\"#p94724622\" class=\"quotelink\">&gt;&gt;94724622</a><br>Whats wrong with webp ?<br>The only downside ive had so far is that its not accepted by some image modification programs",
+    "time": 1689491045,
+    "resto": 94682366
+  },
+  {
+    "no": 94727385,
+    "now": "07/16/23(Sun)03:52:42",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94722717\" class=\"quotelink\">&gt;&gt;94722717</a><br><span class=\"quote\">&gt;hating JS(E)X</span><br>anon, you disappoint me<br>or maybe this is an ai post configured with data from 2013 after jsconf? idk whats real anymore with so much shit<br>it&#039;s just javascript xml to make declarative ui&#039;s, what&#039;s there to hate",
+    "filename": "1677681704126925",
+    "ext": ".jpg",
+    "w": 602,
+    "h": 740,
+    "tn_w": 101,
+    "tn_h": 125,
+    "tim": 1689493962479154,
+    "time": 1689493962,
+    "md5": "lvzR9S5JoqmhOHHan1t9zQ==",
+    "fsize": 63581,
+    "resto": 94682366
+  },
+  {
+    "no": 94727541,
+    "now": "07/16/23(Sun)04:06:50",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94727385\" class=\"quotelink\">&gt;&gt;94727385</a><br>Angular is better",
+    "time": 1689494810,
+    "resto": 94682366
+  },
+  {
+    "no": 94727692,
+    "now": "07/16/23(Sun)04:20:12",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94724849\" class=\"quotelink\">&gt;&gt;94724849</a><br>Learn it if you want to maintain legacy php spaghetti code and wordpress. Laravel/symfony jobs represent 5% of total php jobs.",
+    "time": 1689495612,
+    "resto": 94682366
+  },
+  {
+    "no": 94727728,
+    "now": "07/16/23(Sun)04:23:42",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94710057\" class=\"quotelink\">&gt;&gt;94710057</a><br>retard",
+    "time": 1689495822,
+    "resto": 94682366
+  },
+  {
+    "no": 94727755,
+    "now": "07/16/23(Sun)04:25:25",
+    "name": "Anonymous",
+    "com": "What&#039;s your opinion on Laravel?",
+    "time": 1689495925,
+    "resto": 94682366
+  },
+  {
+    "no": 94727865,
+    "now": "07/16/23(Sun)04:33:47",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94726783\" class=\"quotelink\">&gt;&gt;94726783</a><br>If it does the job then it does the job, nothing wrong with a PHP stack.<br>The more &quot;relevant&quot; stuff is usually a full-stack solution using a Javascript framework like Nextjs or Sveltekit, a host like Vercel or Netflify that support API routes and a database provider like Supabase.",
+    "time": 1689496427,
+    "resto": 94682366
+  },
+  {
+    "no": 94728010,
+    "now": "07/16/23(Sun)04:49:56",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94727755\" class=\"quotelink\">&gt;&gt;94727755</a><br>comfy",
+    "time": 1689497396,
+    "resto": 94682366
+  },
+  {
+    "no": 94728056,
+    "now": "07/16/23(Sun)04:54:34",
+    "name": "Anonymous",
+    "com": "Hello,<br><br>I would be happy if you could provide some comments on a problem I have. I&#039;m building a web app. I&#039;m doing some regressions on a bunch of data every month and store it in a database. I&#039;m basically just converting a Dataframe (Python object) to a table in a SQL database (PostgreSQL). Right now I just have a new table for each month. Is this stupid? The web app I&#039;m building won&#039;t have many users, maybe 10 000 users each month.<br><br>I&#039;m an economist by training so my programming skills are not great.",
+    "time": 1689497674,
+    "resto": 94682366
+  },
+  {
+    "no": 94728071,
+    "now": "07/16/23(Sun)04:56:08",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94721333\" class=\"quotelink\">&gt;&gt;94721333</a><br><span class=\"quote\">&gt;.then</span><br><span class=\"quote\">&gt;})</span><br><span class=\"quote\">&gt;;</span><br><span class=\"quote\">&gt;((d) </span><br>kek, nice try",
+    "time": 1689497768,
+    "resto": 94682366
+  },
+  {
+    "no": 94728137,
+    "now": "07/16/23(Sun)05:02:50",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728056\" class=\"quotelink\">&gt;&gt;94728056</a><br><span class=\"quote\">&gt;Right now I just have a new table for each month. Is this stupid? </span><br><br>Yes, your data should all be in one table. You&#039;re supposed to be using SQL queries to be able to filter out and aggregate the data by month.",
+    "time": 1689498170,
+    "resto": 94682366
+  },
+  {
+    "no": 94728151,
+    "now": "07/16/23(Sun)05:04:41",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728137\" class=\"quotelink\">&gt;&gt;94728137</a><br>I see. Thank you for the answer.",
+    "time": 1689498281,
+    "resto": 94682366
+  },
+  {
+    "no": 94728180,
+    "now": "07/16/23(Sun)05:08:01",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94727755\" class=\"quotelink\">&gt;&gt;94727755</a><br>good stuff",
+    "time": 1689498481,
+    "resto": 94682366
+  },
+  {
+    "no": 94728266,
+    "now": "07/16/23(Sun)05:16:16",
+    "name": "Anonymous",
+    "com": "<span class=\"quote\">&gt;mfw got a sweet idea for an irl web</span><br><span class=\"quote\">&gt;it would probably bring in some dosh</span><br><span class=\"quote\">&gt;&quot;b-but what idea is it anon?&quot;</span><br>heheeeh",
+    "time": 1689498976,
+    "resto": 94682366
+  },
+  {
+    "no": 94728498,
+    "now": "07/16/23(Sun)05:40:11",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94726543\" class=\"quotelink\">&gt;&gt;94726543</a><br><span class=\"quote\">&gt;tailwind is based</span>",
+    "filename": "ilgunliv1ak31",
+    "ext": ".png",
+    "w": 1879,
+    "h": 1384,
+    "tn_w": 125,
+    "tn_h": 92,
+    "tim": 1689500411079946,
+    "time": 1689500411,
+    "md5": "L3Pkx8IKGV9x/A8kz73/gA==",
+    "fsize": 584645,
+    "resto": 94682366
+  },
+  {
+    "no": 94728509,
+    "now": "07/16/23(Sun)05:41:18",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94727385\" class=\"quotelink\">&gt;&gt;94727385</a><br>it&#039;s ugly, and even after looking at it for a long time it still doesn&#039;t look right",
+    "time": 1689500478,
+    "resto": 94682366
+  },
+  {
+    "no": 94728524,
+    "now": "07/16/23(Sun)05:43:05",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94727385\" class=\"quotelink\">&gt;&gt;94727385</a><br><span class=\"quote\">&gt;What&#039;s there to hate</span><br>Ternary hell and using using .map to create elements out of array, imagine doing a copy of array to iterate.",
+    "time": 1689500585,
+    "resto": 94682366
+  },
+  {
+    "no": 94728543,
+    "now": "07/16/23(Sun)05:46:01",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728524\" class=\"quotelink\">&gt;&gt;94728524</a><br>It&#039;s not ugly, it&#039;s just that (You)&#039;re bad. (You) can&#039;t into component composition and clean code. <br><a href=\"#p94728524\" class=\"quotelink\">&gt;&gt;94728524</a><br>The same thing as above. Using ternaries inside JSX is a red flag to anyone who is actually experienced in React. But I&#039;m aware that this is the unemployed faggot general, so it&#039;s expected you get filtered.",
+    "time": 1689500761,
+    "resto": 94682366
+  },
+  {
+    "no": 94728555,
+    "now": "07/16/23(Sun)05:47:57",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728056\" class=\"quotelink\">&gt;&gt;94728056</a><br><a href=\"#p94728137\" class=\"quotelink\">&gt;&gt;94728137</a><br>this is correct.  And to select all rows in say June 2022 you could do this<br><pre class=\"prettyprint\">SELECT * FROM SomeTable WHERE MONTH(dateColumn) = 6 AND YEAR(dateColumn) = 2022<br></pre>",
+    "time": 1689500877,
+    "resto": 94682366
+  },
+  {
+    "no": 94728580,
+    "now": "07/16/23(Sun)05:50:45",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728543\" class=\"quotelink\">&gt;&gt;94728543</a><br>What do you propose as alternative? Creating a function that conditionally returns components then getting raped on re-creating on re-renders then coping with useCallback? Other frameworks already solved it without jumping through hoops.",
+    "time": 1689501045,
+    "resto": 94682366
+  },
+  {
+    "no": 94728604,
+    "now": "07/16/23(Sun)05:52:52",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94682366\" class=\"quotelink\">&gt;&gt;94682366</a><br>do you guys develop on your local machine, in a container or in a vm? Wondering which setup I should choose when using npm.",
+    "time": 1689501172,
+    "resto": 94682366
+  },
+  {
+    "no": 94728606,
+    "now": "07/16/23(Sun)05:53:00",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728543\" class=\"quotelink\">&gt;&gt;94728543</a><br><span class=\"quote\">&gt;clean code</span><br>this is not possible with jsx.  Picrel shows how hideous.  Many such cases all throughout codebase.  From a website worth several billion $<br>https://github.com/Uniswap/interfac<wbr>e/blob/main/src/components/swap/Swa<wbr>pRoute.tsx<br>it&#039;s not even a complex website<br>https://app.uniswap.org/#/swap",
+    "filename": "hideous",
+    "ext": ".jpg",
+    "w": 617,
+    "h": 548,
+    "tn_w": 125,
+    "tn_h": 111,
+    "tim": 1689501180336322,
+    "time": 1689501180,
+    "md5": "bxtgwlFjH6xlLMXHtYhDkA==",
+    "fsize": 38518,
+    "resto": 94682366
+  },
+  {
+    "no": 94728630,
+    "now": "07/16/23(Sun)05:55:07",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728606\" class=\"quotelink\">&gt;&gt;94728606</a><br>It literally is atrocious code in the picture. Just because popular website uses shit practices it does not discredit the framework (or library). Likely for every framework there could be example of badly written code found.",
+    "time": 1689501307,
+    "resto": 94682366
+  },
+  {
+    "no": 94728638,
+    "now": "07/16/23(Sun)05:56:08",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728604\" class=\"quotelink\">&gt;&gt;94728604</a><br><span class=\"quote\">&gt;npm</span><br>For frontshit all you need is a windows machine with WSL installed. For more ambitious projects use Linux.",
+    "time": 1689501368,
+    "resto": 94682366
+  },
+  {
+    "no": 94728639,
+    "now": "07/16/23(Sun)05:56:09",
+    "name": "Anonymous",
+    "com": "Is there a site anywhere you can download json files with prefilled data like forum posts?",
+    "time": 1689501369,
+    "resto": 94682366
+  },
+  {
+    "no": 94728666,
+    "now": "07/16/23(Sun)05:59:25",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728606\" class=\"quotelink\">&gt;&gt;94728606</a><br><span class=\"quote\">&gt;extra indentation to return markup</span><br><span class=\"quote\">&gt;elements enclosing with ( )</span><br><span class=\"quote\">&gt;needing to use &lt;React.Fragment&gt; &lt;&gt;</span><br><span class=\"quote\">&gt;same_prop={same_prop} no shorthand</span><br>JSX is so shit.<br><br><a href=\"#p94728630\" class=\"quotelink\">&gt;&gt;94728630</a><br>Truth is most of the websites look like that, stop being retarded everyone writes like that because it&#039;s idiomatic, you are not a genius. If most people end up with code like that then that means the framework / documentation is shit.",
+    "time": 1689501565,
+    "resto": 94682366
+  },
+  {
+    "no": 94728689,
+    "now": "07/16/23(Sun)06:02:33",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728666\" class=\"quotelink\">&gt;&gt;94728666</a><br><span class=\"quote\">&gt;JSX is so shit</span><br>checked and it&#039;s true",
+    "time": 1689501753,
+    "resto": 94682366
+  },
+  {
+    "no": 94728690,
+    "now": "07/16/23(Sun)06:02:37",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728580\" class=\"quotelink\">&gt;&gt;94728580</a><br><span class=\"quote\">&gt;What do you propose as alternative?</span><br>You mean as opposed to using ternaries for JSX? For simple cases using plan if statement is already a huge improvement. But it has to be done with appropriate composition of course, otherwise using ifs becomes hell.<br><a href=\"#p94728666\" class=\"quotelink\">&gt;&gt;94728666</a><br><span class=\"quote\">&gt;everyone writes like that because it&#039;s idiomatic,</span><br>Simple false. At my job we use special composition guidelines, specifically so that our code does not become the spaghetti that can be seen in your pic. But whatever helps you cope, retard.",
+    "time": 1689501757,
+    "resto": 94682366
+  },
+  {
+    "no": 94728758,
+    "now": "07/16/23(Sun)06:09:11",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728690\" class=\"quotelink\">&gt;&gt;94728690</a><br><span class=\"quote\">&gt;plain if statement</span><br>You mean doubling the if statements? Extra work to check one element<br>{ a &amp;&amp;  ( ) }<br>{ !a &amp;&amp; ( ) }<br><br>If you mean using if inside separate component then that component is in another file / it&#039;s function inside current component? If the first you are creating another component where it might be not needed just because JSX is shit, if second you are doing the same but with more headaches.<br><br><span class=\"quote\">&gt;My job dictates idiomatic way to do things</span><br>Do you work at Meta or Vercel? If not then what you say is not worth shit. Look at most projects, ternaries are there, you can&#039;t change it, it is in the documentation, it&#039;s everywhere. You literally need custom guidelines to not make your code shit, JSX is shit by default, that&#039;s the problem itself.",
+    "time": 1689502151,
+    "resto": 94682366
+  },
+  {
+    "no": 94728767,
+    "now": "07/16/23(Sun)06:10:21",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728606\" class=\"quotelink\">&gt;&gt;94728606</a><br>Honestly doesn&#039;t look that bad, it could be much worse",
+    "filename": "suffering",
+    "ext": ".jpg",
+    "w": 2250,
+    "h": 2062,
+    "tn_w": 125,
+    "tn_h": 114,
+    "tim": 1689502221497465,
+    "time": 1689502221,
+    "md5": "zXI0aCZ9vNHi6t3GT1E1zQ==",
+    "fsize": 292135,
+    "resto": 94682366
+  },
+  {
+    "no": 94728817,
+    "now": "07/16/23(Sun)06:14:53",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728758\" class=\"quotelink\">&gt;&gt;94728758</a><br>Goddamn you&#039;re retarded.",
+    "time": 1689502493,
+    "resto": 94682366
+  },
+  {
+    "no": 94728978,
+    "now": "07/16/23(Sun)06:28:32",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728690\" class=\"quotelink\">&gt;&gt;94728690</a><br><span class=\"quote\">&gt;we use special composition guidelines, specifically so that our code does not become the spaghetti</span><br>did you look at that codebase ?  It&#039;s very well structured and obviously following some guidelines.  It just looks like shit and there&#039;s way too much abstraction because jsx looks like shit and encourages way too much abstraction",
+    "time": 1689503312,
+    "resto": 94682366
+  },
+  {
+    "no": 94728999,
+    "now": "07/16/23(Sun)06:30:00",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728978\" class=\"quotelink\">&gt;&gt;94728978</a><br><span class=\"quote\">&gt;It&#039;s very well structured</span><br>wow, are you retarded, or Indian? Genuine question",
+    "time": 1689503400,
+    "resto": 94682366
+  },
+  {
+    "no": 94729361,
+    "now": "07/16/23(Sun)07:01:50",
+    "name": "Anonymous",
+    "com": "I’ve got a node app on pm2 in an ec2 instance. Elsewhere, I’m calling fetch on a post route but Chrome is denying to fulfill it as the source is not secure (http). Besides manually allowing for connections to insecure content in Chrome settings, what can I do?<br>I looked into https and to do get approved with a certificate, I need a domain name rather than a bare IP which seems like far too much just to fetch from this one page.",
+    "time": 1689505310,
+    "resto": 94682366
+  },
+  {
+    "no": 94729434,
+    "now": "07/16/23(Sun)07:08:31",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728767\" class=\"quotelink\">&gt;&gt;94728767</a><br>Yeah, this my one big issue that I have with Flutter. <br>It makes it extremely easy to write extremely bad and extremely unmaintainable code.",
+    "time": 1689505711,
+    "resto": 94682366
+  },
+  {
+    "no": 94729446,
+    "now": "07/16/23(Sun)07:09:17",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94729361\" class=\"quotelink\">&gt;&gt;94729361</a><br>Do you use it for yourself? If so then you can create self-signed certificate for ip address (I think) or set some name in e.g /etc/hosts in your client devices and install self-signed certificate to have https, otherwise you are fucked and you will need a domain (you can get cheap one for like $3-4) and certificate (you can get it for free from letsencrypt). <br><br><span class=\"quote\">&gt; I&#039;m calling fetch on post route</span><br>Sounds like CORS issue, not https issue, before I&#039;ve mentioned a way to not make the browser angry when you navigate to your http website but if you are having issues with fetch then look into how to fix CORS.",
+    "time": 1689505757,
+    "resto": 94682366
+  },
+  {
+    "no": 94729484,
+    "now": "07/16/23(Sun)07:11:42",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94729361\" class=\"quotelink\">&gt;&gt;94729361</a><br>Also some clouds provide you with their out-of-box address like 1.2.3.4-azure.cloudapp.com or something like that and this way you might be able to generate certificate and serve your shit with https too IIRC.",
+    "time": 1689505902,
+    "resto": 94682366
+  },
+  {
+    "no": 94729513,
+    "now": "07/16/23(Sun)07:13:48",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94729446\" class=\"quotelink\">&gt;&gt;94729446</a><br>Not a cors issue I’m pretty sure but not at my PC right now for the exact message. And it will be used for my company, so there could be a white list of IPs, but to not have to worry about that, TLS looks like the easiest way. .link domains on route 53 are $5 a year so I might just do that but I figured there is some other way I’m just not aware of. <br><a href=\"#p94729484\" class=\"quotelink\">&gt;&gt;94729484</a><br>Possibly, I can do that with cloudfront but if my company is fine with buying a domain name, it could at least have a cool name to to it.",
+    "time": 1689506028,
+    "resto": 94682366
+  },
+  {
+    "no": 94729523,
+    "now": "07/16/23(Sun)07:14:47",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94727865\" class=\"quotelink\">&gt;&gt;94727865</a><br>Thanx anon",
+    "time": 1689506087,
+    "resto": 94682366
+  },
+  {
+    "no": 94729957,
+    "now": "07/16/23(Sun)07:50:09",
+    "name": "Anonymous",
+    "com": "I can&#039;t even install laravel",
+    "filename": "1689507965821522",
+    "ext": ".jpg",
+    "w": 232,
+    "h": 400,
+    "tn_w": 72,
+    "tn_h": 125,
+    "tim": 1689508209173810,
+    "time": 1689508209,
+    "md5": "YYUEwd/q1jhqqow3KXTi5Q==",
+    "fsize": 37816,
+    "resto": 94682366
+  },
+  {
+    "no": 94730022,
+    "now": "07/16/23(Sun)07:54:31",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94729957\" class=\"quotelink\">&gt;&gt;94729957</a><br>teh docs",
+    "time": 1689508471,
+    "resto": 94682366
+  },
+  {
+    "no": 94730149,
+    "now": "07/16/23(Sun)08:03:31",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94713214\" class=\"quotelink\">&gt;&gt;94713214</a><br><span class=\"quote\">&gt;Can&#039;t get interviews</span><br>Your CV is shit. Fix it.<br><span class=\"quote\">&gt;Can&#039;t get past the HR interview</span><br>Stop being a sperg and conform to social norms, at least for the duration of the interview<br><span class=\"quote\">&gt;Can&#039;t pass the &quot;real&quot; or &quot;technical&quot; interview (s)</span><br>Improve your interviewing skills, and possibly for some geographical locations improve your algorithm and data structure skills<br><span class=\"quote\">&gt;Able to get an offer from most interviews</span><br>Congratulations, you are now able to land a job. Make sure you actually stay competent and keep up your hard skills. <br><br>You are on step one. Your CV is probably pretty shit. Have a professional go over it, not just your mom. Either a friend who works as a recruiter/HR or pay a professional, it is not that expensive and will drastically improve your response rate for cold submissions.",
+    "time": 1689509011,
+    "resto": 94682366
+  },
+  {
+    "no": 94730543,
+    "now": "07/16/23(Sun)08:35:41",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94730149\" class=\"quotelink\">&gt;&gt;94730149</a><br>Any good CV examples and formats/templates? Especially for Europe?",
+    "time": 1689510941,
+    "resto": 94682366
+  },
+  {
+    "no": 94730942,
+    "now": "07/16/23(Sun)09:06:51",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94730543\" class=\"quotelink\">&gt;&gt;94730543</a><br><span class=\"quote\">&gt;for Europe</span><br>something telefax probs",
+    "time": 1689512811,
+    "resto": 94682366
+  },
+  {
+    "no": 94731253,
+    "now": "07/16/23(Sun)09:28:58",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728639\" class=\"quotelink\">&gt;&gt;94728639</a><br>Found one<br>https://dummyjson.com/posts",
+    "time": 1689514138,
+    "resto": 94682366
+  },
+  {
+    "no": 94731710,
+    "now": "07/16/23(Sun)09:59:50",
+    "name": "Anonymous",
+    "com": "AAAAAAAA",
+    "filename": "1531252",
+    "ext": ".png",
+    "w": 138,
+    "h": 40,
+    "tn_w": 125,
+    "tn_h": 36,
+    "tim": 1689515990844637,
+    "time": 1689515990,
+    "md5": "LCZK8Kt4Yc+pWF0cTizRpw==",
+    "fsize": 2883,
+    "resto": 94682366
+  },
+  {
+    "no": 94731846,
+    "now": "07/16/23(Sun)10:09:32",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94714487\" class=\"quotelink\">&gt;&gt;94714487</a><br>bump<br>someone please, i can&#039;t find the source of this webm",
+    "time": 1689516572,
+    "resto": 94682366
+  },
+  {
+    "no": 94732271,
+    "now": "07/16/23(Sun)10:38:58",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94730543\" class=\"quotelink\">&gt;&gt;94730543</a><br>Frog here, ive used free templates from Figma community for my CV.<br>Most are clean, modern, and straight to the point : &quot;just&quot; find one that matches your colour likings and replace alk the dummy text with your experiences/internships etc",
+    "filename": "20230615_125944",
+    "ext": ".jpg",
+    "w": 896,
+    "h": 1120,
+    "tn_w": 100,
+    "tn_h": 125,
+    "tim": 1689518338857869,
+    "time": 1689518338,
+    "md5": "Q9ORyPGXMjR4MX5pE5RPVA==",
+    "fsize": 105848,
+    "resto": 94682366
+  },
+  {
+    "no": 94732717,
+    "now": "07/16/23(Sun)11:08:21",
+    "name": "Anonymous",
+    "com": "If I&#039;m building a small web app: should I bother with microservices or just make it monolithic?",
+    "time": 1689520101,
+    "resto": 94682366
+  },
+  {
+    "no": 94733077,
+    "now": "07/16/23(Sun)11:28:38",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94732717\" class=\"quotelink\">&gt;&gt;94732717</a><br>99% of the time a monolith is all you need. would need to know exactly what you&#039;re doing to know if you need microservices",
+    "time": 1689521318,
+    "resto": 94682366
+  },
+  {
+    "no": 94733207,
+    "now": "07/16/23(Sun)11:38:07",
+    "name": "Anonymous",
+    "com": "ASP.NET in a nutshell:<br><span class=\"quote\">&gt;I would like to create a simple JSON data structure</span><br><span class=\"quote\">&gt;ok so you can either pic List or Dictionary or Hashset or ICollection or  IList or IEnumerable  each one fucking you in the ass in their own unique way when LINQ-ing and cucking you with annotation mismatches, you will need to scope a logger and most likely address several foreign key violations</span><br><br>NODE.JS in a nutshell<br><span class=\"quote\">&gt;I&#039;d like to create a data structure</span><br><span class=\"quote\">&gt;const data&lt;string[]&gt; = [{},{},{}]</span>",
+    "time": 1689521887,
+    "resto": 94682366
+  },
+  {
+    "no": 94733345,
+    "now": "07/16/23(Sun)11:46:26",
+    "name": "Anonymous",
+    "com": "anyone have any experience using RedwoodJS or other frameworks for similar such technology?",
+    "filename": "rw",
+    "ext": ".jpg",
+    "w": 700,
+    "h": 400,
+    "tn_w": 125,
+    "tn_h": 71,
+    "tim": 1689522386036971,
+    "time": 1689522386,
+    "md5": "vKoJrvF3EZLclHUIkl+cjQ==",
+    "fsize": 24061,
+    "resto": 94682366
+  },
+  {
+    "no": 94734456,
+    "now": "07/16/23(Sun)12:49:06",
+    "name": "Anonymous",
+    "com": "Pls halp. <br><br>I&#039;m using react routes to navigate to different pages. I&#039;m fetching post data so that when I click on a button it takes me to a post page with the post data. <br><br>My function if working but I can&#039;t get the Link to to work with my onClick function to get the post data. When I click on the button, it takes me to the page but doesn&#039;t fetch the post data. <br><br>This is my code <br><br> <pre class=\"prettyprint\"> <br>const BlogItems = ({ posts, post, setPost, getPosts }) =&gt; {<br>  const getPost = async () =&gt; {<br>    try {<br>      const response = await fetch(<br>        `http://localhost:3000/posts?id=${p<wbr>ost?.id}`<br>      );<br>      const data = await response.json();<br>      setPost(data);<br>    } catch (error) {<br>      console.error(error);<br>    }<br>  };<br><br>  useEffect(() =&gt; {<br>    getPost();<br>  }, [post]);<br><br>  const onSetPost = (e) =&gt; {<br>    e.preventDefault();<br>    getPost();<br>    setPost(post);<br>  };<br>  console.log(post);<br>  const replace = post.title.replaceAll(&#039; &#039;, &#039;-&#039;);<br><br>  return (<br>    &lt;div&gt;<br>      &lt;div className=&#039;posts&#039;&gt;<br>        &lt;div&gt;<br>          &lt;h2&gt;{post.title}&lt;/h2&gt;<br>        &lt;/div&gt;<br>        &lt;div&gt;<br>          &lt;p&gt;<br>            &lt;em&gt;{post.body}&lt;/em&gt;<br>          &lt;/p&gt;<br>        &lt;/div&gt;<br>        &lt;Link to=&#039;/post&#039; onClick={onSetPost}&gt;<br>          &lt;Button&gt;View post&lt;/Button&gt;<br>        &lt;/Link&gt;<br>      &lt;/div&gt;<br>    &lt;/div&gt;<br>  );<br>};<br></pre>",
+    "time": 1689526146,
+    "resto": 94682366
+  },
+  {
+    "no": 94734487,
+    "now": "07/16/23(Sun)12:50:21",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94734456\" class=\"quotelink\">&gt;&gt;94734456</a><br>The onClick should be on the button btw, I just moved it to the Link to see if that would work.",
+    "time": 1689526221,
+    "resto": 94682366
+  },
+  {
+    "no": 94735261,
+    "now": "07/16/23(Sun)13:33:32",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728606\" class=\"quotelink\">&gt;&gt;94728606</a><br><span class=\"quote\">&gt;&lt;/Trans&gt;</span><br>that&#039;s a dumb way to do styling but otherwise it&#039;s just normal JSX code to me",
+    "time": 1689528812,
+    "resto": 94682366
+  },
+  {
+    "no": 94735303,
+    "now": "07/16/23(Sun)13:35:48",
+    "name": "Anonymous",
+    "com": "Help, how can i use materializecss with svelte? Materialize wants the component to be init() on page load, but how do i do that in svelte?",
+    "time": 1689528948,
+    "resto": 94682366
+  },
+  {
+    "no": 94735405,
+    "now": "07/16/23(Sun)13:40:16",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94729434\" class=\"quotelink\">&gt;&gt;94729434</a><br>some code i wrote at my job is deep in ? : hell and i just don&#039;t bother anymore<br><br>i didn&#039;t even extract them as individual widget, i just left it there",
+    "time": 1689529216,
+    "resto": 94682366
+  },
+  {
+    "no": 94735658,
+    "now": "07/16/23(Sun)13:52:09",
+    "name": "Anonymous",
+    "com": "I&#039;m thinking about just using AWS even though it&#039;s more complicated just to make sure that everything is future proof. What do you guys think?",
+    "time": 1689529929,
+    "resto": 94682366
+  },
+  {
+    "no": 94735735,
+    "now": "07/16/23(Sun)13:55:07",
+    "name": "Anonymous",
+    "com": "differences between monolithic and microservices?<br>any examples please",
+    "time": 1689530107,
+    "resto": 94682366
+  },
+  {
+    "no": 94736468,
+    "now": "07/16/23(Sun)14:29:43",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94735735\" class=\"quotelink\">&gt;&gt;94735735</a><br>one api vs many. that&#039;s it.<br><br>get used to hearing strange phrases and words to describe simple concepts if you&#039;re just getting into web dev btw",
+    "time": 1689532183,
+    "resto": 94682366
+  },
+  {
+    "no": 94737298,
+    "now": "07/16/23(Sun)15:11:28",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94736468\" class=\"quotelink\">&gt;&gt;94736468</a><br>So the front end just calls different APIs for different things on the web site/app? That&#039;s it? Or do the different microservices also make API calls to each other? How do you do that in practice?",
+    "time": 1689534688,
+    "resto": 94682366
+  },
+  {
+    "no": 94737792,
+    "now": "07/16/23(Sun)15:36:09",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94734456\" class=\"quotelink\">&gt;&gt;94734456</a><br><span class=\"quote\">&gt;I&#039;m using react</span>",
+    "filename": "wojak-soy-boy-green-hair",
+    "ext": ".png",
+    "w": 232,
+    "h": 217,
+    "tn_w": 125,
+    "tn_h": 116,
+    "tim": 1689536169620684,
+    "time": 1689536169,
+    "md5": "o4AkqOZE2g07LtTMpKAuGQ==",
+    "fsize": 9822,
+    "resto": 94682366
+  },
+  {
+    "no": 94737873,
+    "now": "07/16/23(Sun)15:39:28",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94728999\" class=\"quotelink\">&gt;&gt;94728999</a><br>excellent arguments",
+    "time": 1689536368,
+    "resto": 94682366
+  },
+  {
+    "no": 94738448,
+    "now": "07/16/23(Sun)16:09:29",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94737792\" class=\"quotelink\">&gt;&gt;94737792</a><br>Done him <br>Front end frameworks are for trannies",
+    "time": 1689538169,
+    "resto": 94682366
+  },
+  {
+    "no": 94738557,
+    "now": "07/16/23(Sun)16:15:36",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94737792\" class=\"quotelink\">&gt;&gt;94737792</a><br>Epic, simply epic. You can go back to redit now and tell them how you posted le epic wojak on 4chan XD.",
+    "time": 1689538536,
+    "resto": 94682366
+  },
+  {
+    "no": 94738966,
+    "now": "07/16/23(Sun)16:36:41",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94737298\" class=\"quotelink\">&gt;&gt;94737298</a><br>both or either. you just set up different servers as and when.",
+    "time": 1689539801,
+    "resto": 94682366
+  },
+  {
+    "no": 94739451,
+    "now": "07/16/23(Sun)16:59:26",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94734456\" class=\"quotelink\">&gt;&gt;94734456</a><br>What routing lib is this? it seems like posts are tied to URL state, no? so why have state setters and not instead base the post on the URL params?",
+    "time": 1689541166,
+    "resto": 94682366
+  },
+  {
+    "no": 94739766,
+    "now": "07/16/23(Sun)17:14:34",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94739451\" class=\"quotelink\">&gt;&gt;94739451</a><br>BrowserRouter<br><br><pre class=\"prettyprint\"> import { BrowserRouter, Routes, Route } from &#039;react-router-dom&#039; <br><br>&lt;BrowserRouter&gt;<br>        &lt;Routes&gt;<br>          &lt;Route<br>            path=&#039;/&#039;<br>            element={<br>              &lt;Home socialOpen={socialOpen} setSocialOpen={setSocialOpen} /&gt;<br>            }<br>          /&gt;<br>          &lt;Route<br>            path=&#039;/blog&#039;<br>            element={<br>              &lt;Blog<br>                post={post}<br>                getPosts={getPosts}<br>                setPost={setPost}<br>                posts={posts}<br>              /&gt;<br>            }<br>          /&gt;<br>          &lt;Route path={`/post`} element={&lt;Post post={post} /&gt;} /&gt;<br>        &lt;/Routes&gt;<br>      &lt;/BrowserRouter&gt;<br></pre><br><br>Sorted it now, not even sure what I did to get it to work. Think I might not have been passing a prop through properly.",
+    "time": 1689542074,
+    "resto": 94682366
+  },
+  {
+    "no": 94740044,
+    "now": "07/16/23(Sun)17:27:47",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94739766\" class=\"quotelink\">&gt;&gt;94739766</a><br>This seems so unnecessarily complex. Why aren&#039;t you using route loaders? What happens if you load the post page directly?",
+    "time": 1689542867,
+    "resto": 94682366
+  },
+  {
+    "no": 94740172,
+    "now": "07/16/23(Sun)17:34:16",
+    "name": "Anonymous",
+    "com": "<a href=\"#p94740044\" class=\"quotelink\">&gt;&gt;94740044</a><br>Seems pretty simple to me, if you visit the post page directly it throughs an error because you aren&#039;t fetching any post data. <br><br>That shouldn&#039;t be a problem though because you wouldn&#039;t visit the page without clicking on a link.  I guess i&#039;ll do a function or some conditional rendering based on whether the post data is there or not.",
+    "time": 1689543256,
+    "resto": 94682366
+  }
+]

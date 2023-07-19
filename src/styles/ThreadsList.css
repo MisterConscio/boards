@@ -1,0 +1,21 @@
+.threads-grid {
+  display: grid;
+  grid-template-columns: repeat(8, auto);
+  gap: 4rem 2rem;
+
+  width: calc(100% - 8rem);
+  margin-inline: auto;
+  margin-block: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .threads-grid {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1200px) {
+  .threads-grid {
+    grid-template-columns: repeat(4, auto);
+  }
+}

@@ -1,0 +1,18 @@
+footer {
+  margin-block: 3rem 0.5rem;
+  text-align: center;
+}
+
+.footer-link-list {
+  display: flex;
+  place-content: center;
+  gap: 1em;
+}
+
+.footer-link-list > li > a {
+  text-decoration: none;
+}
+
+.footer-link-list > li > a:hover {
+  text-decoration: underline;
+}

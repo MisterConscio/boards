@@ -1,0 +1,15 @@
+.thread-card {
+  text-align: center;
+  max-height: 410px;
+
+  overflow: hidden;
+}
+
+.thread-card-thumb {
+  display: flex;
+  place-content: center;
+}
+
+.thread-card-status {
+  font-size: 0.9rem;
+}

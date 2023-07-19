@@ -1,0 +1,44 @@
+.post {
+  display: flex;
+  flex-direction: column;
+
+  border: 1px solid dimgrey;
+  padding: 0.15rem 0.5rem;
+
+  margin-bottom: 1rem;
+}
+
+.post:nth-child(1) {
+  border-color: darkgoldenrod;
+}
+
+.post-info > * {
+  margin-right: 0.75rem;
+}
+
+.post-info-name {
+  color: forestgreen;
+  font-weight: bold;
+}
+
+.post-info-backlink {
+  display: inline;
+}
+
+.post-info-backlink > * {
+  font-size: 0.75rem;
+  margin-right: 0.35em;
+}
+
+.post-message {
+  display: flex;
+  align-items: center;
+}
+
+.post-message > * {
+  flex-basis: fit-content;
+}
+
+.post-message-reply {
+  padding: 1rem;
+}
