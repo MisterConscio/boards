@@ -8,7 +8,7 @@ type Props = {
   images: number;
 };
 
-const ThreadCard = ({ subject, commentary, replies, images }: Props) => {
+const CatalogCard = ({ subject, commentary, replies, images }: Props) => {
   function randomImageRes() {
     let randWith = Math.floor(Math.random() * 150 + 100);
     let randHeight = Math.floor(Math.random() * 100 + 150);
@@ -21,8 +21,9 @@ const ThreadCard = ({ subject, commentary, replies, images }: Props) => {
       <div className="thread-card-thumb">
         <Link to="/thread">
           <img
-            src={`https://placehold.co/${randomImageRes()}`}
+            src={`https://placehold.co/${randomImageRes()}/jpg`}
             alt="Thumbnail"
+            loading="lazy"
           />
         </Link>
       </div>
@@ -36,4 +37,4 @@ const ThreadCard = ({ subject, commentary, replies, images }: Props) => {
   );
 };
 
-export default ThreadCard;
+export default CatalogCard;

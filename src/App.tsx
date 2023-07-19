@@ -1,20 +1,12 @@
-import ThreadsCatalog from "./components/ThreadsCatalog";
-import ThreadPage from "./components/ThreadPage";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-
-const routes = createBrowserRouter([
-  {
-    path: "/",
-    element: <ThreadsCatalog />,
-  },
-  {
-    path: "/thread",
-    element: <ThreadPage />,
-  },
-]);
+import { BrowserRouter } from "react-router-dom";
+import Pages from "./routes";
 
 function App() {
-  return <RouterProvider router={routes} />;
+  return (
+    <BrowserRouter>
+      <Pages />
+    </BrowserRouter>
+  );
 }
 
 export default App;
