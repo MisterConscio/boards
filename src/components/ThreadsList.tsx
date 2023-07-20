@@ -42,6 +42,7 @@ const CatalogList = () => {
       {threads.map((thread) => (
         <CatalogCard
           key={thread.no}
+          id={thread.no}
           subject={thread.sub}
           commentary={thread.com}
           replies={thread.replies}

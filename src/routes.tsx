@@ -5,7 +5,7 @@ import ThreadPage from "./pages/ThreadPage";
 const Pages = () => (
   <Routes>
     <Route path="/" element={<CatalogPage />} />
-    <Route path="/thread" element={<ThreadPage />} />
+    <Route path="/thread/:id" element={<ThreadPage />} />
   </Routes>
 );
 

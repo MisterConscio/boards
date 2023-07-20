@@ -6,9 +6,10 @@ type Props = {
   commentary: string;
   replies: number;
   images: number;
+  id: number
 };
 
-const CatalogCard = ({ subject, commentary, replies, images }: Props) => {
+const CatalogCard = ({ subject, commentary, replies, images, id }: Props) => {
   function randomImageRes() {
     let randWith = Math.floor(Math.random() * 150 + 100);
     let randHeight = Math.floor(Math.random() * 100 + 150);
@@ -19,7 +20,7 @@ const CatalogCard = ({ subject, commentary, replies, images }: Props) => {
   return (
     <div className="thread-card">
       <div className="thread-card-thumb">
-        <Link to="/thread">
+        <Link to={`/thread/${id}`} state={id}>
           <img
             src={`https://placehold.co/${randomImageRes()}/jpg`}
             alt="Thumbnail"
