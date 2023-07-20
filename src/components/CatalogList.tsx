@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "../styles/ThreadsList.css";
-import CatalogCard from "./ThreadCard";
+import CatalogCard from "./CatalogCard";
 
 type Catalog = {
   no: number;
@@ -8,6 +8,8 @@ type Catalog = {
   com: string;
   replies: number;
   images: number;
+  tn_w: number;
+  tn_h: number;
 };
 
 const CatalogList = () => {
@@ -27,8 +29,8 @@ const CatalogList = () => {
       const threadData: Catalog[] = [];
       for (const page of catalogData) {
         for (const thread of page.threads) {
-          const { no, com, sub, replies, images } = thread;
-          threadData.push({ no, com, sub, replies, images });
+          const { no, com, sub, replies, images, tn_w, tn_h } = thread;
+          threadData.push({ no, com, sub, replies, images, tn_w, tn_h });
         }
       }
       setThreads(threadData);
@@ -47,6 +49,8 @@ const CatalogList = () => {
           commentary={thread.com}
           replies={thread.replies}
           images={thread.images}
+          thumbWidth={thread.tn_w}
+          thumbHeight={thread.tn_h}
         />
       ))}
     </main>
