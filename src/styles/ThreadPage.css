@@ -1,4 +1,4 @@
 .post-content {
-  width: min(100% - 3rem, 80ch);
+  width: min(100% - 3rem, 90ch);
   margin-inline: auto;
 }

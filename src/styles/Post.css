@@ -33,12 +33,28 @@
 .post-message {
   display: flex;
   align-items: center;
+  gap: 1rem;
+  padding: 0.5rem;
 }
 
+.post-message img {
+  max-height: 80vh;
+  object-fit: contain;
+}
+
+.post-message-img {
+  cursor: pointer;
+}
+
+.post-message-full {
+  flex-direction: column;
+}
+
+.post-message-full .post-message-reply {
+  align-self: flex-start;
+}
+
+/*
 .post-message > * {
   flex-basis: fit-content;
-}
-
-.post-message-reply {
-  padding: 1rem;
 }
