@@ -31,7 +31,7 @@ const Header = ({ pageType }: Props) => {
 
   return (
     <header>
-      <nav>
+      <nav className="boards-nav">
         <ul className="boards-list">
           {boards.map((board) => (
             <li className="boards-list-item" key={board}>

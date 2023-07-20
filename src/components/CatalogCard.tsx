@@ -44,7 +44,7 @@ const CatalogCard = ({
         R: <strong>{replies.toString()}</strong> / I:{" "}
         <strong>{images.toString()}</strong>
       </span>
-      <h4>{subject}</h4>
+      <h4 className="thread-card-title">{subject}</h4>
       <p dangerouslySetInnerHTML={{ __html: commentary }} />
     </div>
   );

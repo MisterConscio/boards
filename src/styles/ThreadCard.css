@@ -5,6 +5,15 @@
   overflow: hidden;
 }
 
+.thread-card h4,
+.thread-card p {
+  line-height: 1.1;
+}
+
+.thread-card-title {
+  margin-bottom: 0.5rem;
+}
+
 .thread-card-thumb {
   display: flex;
   place-content: center;

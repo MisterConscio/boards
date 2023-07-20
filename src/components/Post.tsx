@@ -55,16 +55,12 @@ const Post = ({
             {fullImg ? (
               <img
                 src={`https://placehold.it/${width}x${height}`}
-                width={width}
-                height={height}
                 alt="thumb"
                 loading="lazy"
               />
             ) : (
               <img
                 src={`https://placehold.it/${tn_w}x${tn_h}`}
-                width={tn_w}
-                height={tn_h}
                 alt="thumb"
                 loading="lazy"
               />
