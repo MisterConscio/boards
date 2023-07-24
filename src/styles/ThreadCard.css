@@ -1,6 +1,6 @@
 .thread-card {
   text-align: center;
-  max-height: 410px;
+  max-height: calc(50vh - 4rem);
 
   overflow: hidden;
 }
@@ -18,9 +18,10 @@
   font-size: 0.9rem;
 }
 
-.thread-card-thumb {
-  display: flex;
-  place-content: center;
+.thread-card-thumb img {
+  object-fit: scale-down;
+  margin-inline: auto;
+  height: 100%;
 }
 
 .thread-card-status {
