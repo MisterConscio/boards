@@ -40,8 +40,7 @@ const ThreadPage = () => {
       const threadData: Promise<any> = await response.json();
       const postData: Thread[] = [];
       for (const post of threadData.posts) {
-        const { no, now, name, com, tim, ext, tn_w, tn_h, w, h } = post;
-        postData.push({ no, now, name, com, tim, ext, tn_w, tn_h, w, h });
+        postData.push(post);
       }
       setThread(postData);
     } catch (error) {

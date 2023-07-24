@@ -3,26 +3,52 @@
   flex-direction: column;
 
   border: 1px solid dimgrey;
-  padding: 0.15rem 0.5rem;
+  border-radius: 0.75rem;
 
   margin-bottom: 1rem;
+  transition: background-color 100ms;
 }
 
 .post:nth-child(1) {
   border-color: darkgoldenrod;
 }
 
-.post-info > * {
-  margin-right: 0.75rem;
+.post-info {
+  display: flex;
+  gap: 0.5rem;
+
+  background-color: rgba(255, 255, 255, 0.10);
+
+  border-radius: 0.75rem 0.75rem 0 0;
+  padding: 0.15rem 0.5rem;
 }
 
 .post-info-name {
-  color: forestgreen;
+  color: mediumseagreen;
   font-weight: bold;
 }
 
+.post-info-date {
+  opacity: 0.5;
+}
+
 .post-info-backlink {
-  display: inline;
+  margin-left: auto;
+}
+
+.post-info-backlink-circle {
+  display: inline-block;
+  aspect-ratio: 1 / 1;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  background-color: transparent;
+  border: 2px solid crimson;
+  cursor: pointer;
+}
+
+.post-info-backlink-circle:hover {
+  background-color: crimson;
 }
 
 .post-info-backlink > * {
@@ -35,6 +61,10 @@
   align-items: center;
   gap: 1rem;
   padding: 0.5rem;
+}
+
+.post-message:hover {
+  background-color: rgba(255, 255, 255, 0.05);
 }
 
 .post-message img {
@@ -50,8 +80,21 @@
   flex-direction: column;
 }
 
-.post-message-full .post-message-reply {
+.post-message-reply {
   align-self: flex-start;
+}
+
+.post-message-reply .quote {
+  color: lightcoral;
+}
+
+.post-message-reply .quotelink {
+  color: deepskyblue;
+  text-decoration: none;
+}
+
+.post-message-reply .quotelink:hover {
+  filter: brightness(1.25);
 }
 
 /*

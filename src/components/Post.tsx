@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "../styles/Post.css";
 
 type Props = {
@@ -27,27 +27,37 @@ const Post = ({
   height,
 }: Props) => {
   const [fullImg, setFullImg] = useState(false);
+  // const [parsedComment, setParsedComment] = useState<Document | null>(null);
+
+  // useEffect(() => {
+  //   function parseHTML(htmlString: string): void {
+  //     const parser = new DOMParser();
+  //     const doc = parser.parseFromString(
+  //       `<div>${htmlString}</div>`,
+  //       "text/html"
+  //     );
+  //     setParsedComment(doc);
+  //   }
+
+  //   parseHTML(comment);
+  // }, []);
 
   const handelImgClick = () => {
     setFullImg(!fullImg);
   };
 
   return (
-    <div className="post" key={number} id={number.toString()}>
+    <div className="post" key={number} id={`p${number.toString()}`}>
       <div className="post-info">
         <span className="post-info-name">{name}</span>
         <span className="post-info-date">{date}</span>
         <span className="post-info-number">No. {number.toString()}</span>
-        {/*
         <div className="post-info-backlink">
-          <span>
-            <a href="#">&gt;&gt;94731503</a>
-          </span>
-          <span>
-            <a href="#">&gt;&gt;94731503</a>
-          </span>
+          <div className="post-info-backlink-circle"></div>
+          <div className="post-info-backlink-circle"></div>
+          <div className="post-info-backlink-circle"></div>
+          <div className="post-info-backlink-circle"></div>
         </div>
-        */}
       </div>
       <div className={`post-message ${fullImg && "post-message-full"}`}>
         {image && (

@@ -14,6 +14,10 @@
   margin-bottom: 0.5rem;
 }
 
+.thread-card-commentary {
+  font-size: 0.9rem;
+}
+
 .thread-card-thumb {
   display: flex;
   place-content: center;

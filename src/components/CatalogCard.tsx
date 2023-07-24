@@ -45,7 +45,10 @@ const CatalogCard = ({
         <strong>{images.toString()}</strong>
       </span>
       <h4 className="thread-card-title">{subject}</h4>
-      <p dangerouslySetInnerHTML={{ __html: commentary }} />
+      <p
+        className="thread-card-commentary"
+        dangerouslySetInnerHTML={{ __html: commentary }}
+      />
     </div>
   );
 };
