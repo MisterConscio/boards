@@ -1,6 +1,34 @@
 import { useEffect, useState } from "react";
 import "../styles/Post.css";
 
+const getCurrentPostReferences = (currentId: number): string[] => {
+  const postContainer = document.body.querySelectorAll("div.post");
+  const postIds: string[] = [];
+  //let count = 0;
+
+  postContainer.forEach((postItem) => {
+    const anchorTags = postItem.querySelectorAll("a.quotelink");
+
+    for (const anchor of anchorTags) {
+      if (anchor.textContent === `>>${currentId}`) {
+        //count++;
+        postIds.push(postItem.id);
+      }
+    }
+  });
+
+  // const anchorTags = document.body.getElementsByTagName("a");
+  // let count = 0;
+
+  // for (const anchor of anchorTags) {
+  //   if (anchor.textContent === `>>${currentId}`) {
+  //     count++;
+  //   }
+  // }
+
+  return postIds;
+};
+
 type Props = {
   name?: string;
   image?: number;
@@ -27,20 +55,16 @@ const Post = ({
   height,
 }: Props) => {
   const [fullImg, setFullImg] = useState(false);
-  // const [parsedComment, setParsedComment] = useState<Document | null>(null);
+  const [replyCount, setReplyCount] = useState<string[]>([]);
 
-  // useEffect(() => {
-  //   function parseHTML(htmlString: string): void {
-  //     const parser = new DOMParser();
-  //     const doc = parser.parseFromString(
-  //       `<div>${htmlString}</div>`,
-  //       "text/html"
-  //     );
-  //     setParsedComment(doc);
-  //   }
+  useEffect(() => {
+    const count = getCurrentPostReferences(number);
+    setReplyCount(count);
+  }, []);
 
-  //   parseHTML(comment);
-  // }, []);
+  const blacklinks = replyCount.map((reply) => (
+    <a href={`#${reply}`} key={reply} className="post-info-backlink-circle"></a>
+  ));
 
   const handelImgClick = () => {
     setFullImg(!fullImg);
@@ -51,13 +75,8 @@ const Post = ({
       <div className="post-info">
         <span className="post-info-name">{name}</span>
         <span className="post-info-date">{date}</span>
-        <span className="post-info-number">No. {number.toString()}</span>
-        <div className="post-info-backlink">
-          <div className="post-info-backlink-circle"></div>
-          <div className="post-info-backlink-circle"></div>
-          <div className="post-info-backlink-circle"></div>
-          <div className="post-info-backlink-circle"></div>
-        </div>
+        <span className="post-info-number">No. {number}</span>
+        <div className="post-info-backlink">{blacklinks}</div>
       </div>
       <div className={`post-message ${fullImg && "post-message-full"}`}>
         {image && (

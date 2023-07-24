@@ -9,12 +9,17 @@
   transition: background-color 100ms;
 }
 
+.post:target {
+  border-color: goldenrod;
+}
+
 .post:nth-child(1) {
   border-color: darkgoldenrod;
 }
 
 .post-info {
   display: flex;
+  align-items: flex-start;
   gap: 0.5rem;
 
   background-color: rgba(255, 255, 255, 0.10);
