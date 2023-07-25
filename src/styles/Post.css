@@ -7,6 +7,8 @@
 
   margin-bottom: 1rem;
   transition: background-color 100ms;
+
+  overflow: hidden;
 }
 
 .post:target {
@@ -70,12 +72,12 @@
 }
 
 .post-message:hover {
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: rgba(255, 255, 255, 0.02);
   border-radius: 0 0 0.75rem 0.75rem;
 }
 
 .post-message img {
-  max-height: 80vh;
+  max-height: 70vh;
   object-fit: contain;
 }
 
@@ -102,4 +104,17 @@
 
 .post-message-reply .quotelink:hover {
   filter: brightness(1.25);
+}
+
+.prettyprint {
+  /*background-color: #222;*/
+  color: lawngreen;
+
+  padding: 0.25rem;
+  border: 2px solid darkslategray;
+  border-radius: 0.25rem;
+  max-width: 600px;
+
+  overflow-x: auto;
+  cursor: text;
 }

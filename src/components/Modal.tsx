@@ -15,12 +15,11 @@ const Modal = ({ label, title, children }: Props) => {
   return (
     <>
       <menu className="show-modal-menu">
-        <button
+        <Button
+          size="big"
+          label={label}
           onClick={() => dialogRef?.current?.showModal()}
-          className="show-modal-btn"
-        >
-          {label}
-        </button>
+        />
       </menu>
 
       <dialog ref={dialogRef} className="modal">

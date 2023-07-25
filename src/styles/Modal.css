@@ -3,12 +3,7 @@
 }
 
 .show-modal-btn {
-  border: none;
-  border-radius: 0.5em;
-  padding: 0.25em 1em;
-
   font-size: 1.35rem;
-  cursor: pointer;
 }
 
 .modal {

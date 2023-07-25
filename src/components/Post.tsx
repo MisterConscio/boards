@@ -4,28 +4,19 @@ import "../styles/Post.css";
 const getCurrentPostReferences = (currentId: number): string[] => {
   const postContainer = document.body.querySelectorAll("div.post");
   const postIds: string[] = [];
-  //let count = 0;
 
   postContainer.forEach((postItem) => {
     const anchorTags = postItem.querySelectorAll("a.quotelink");
 
     for (const anchor of anchorTags) {
       if (anchor.textContent === `>>${currentId}`) {
-        //count++;
-        postIds.push(postItem.id);
+        const postId = postItem.id;
+        if (postId) {
+          postIds.push(postId);
+        }
       }
     }
   });
-
-  // const anchorTags = document.body.getElementsByTagName("a");
-  // let count = 0;
-
-  // for (const anchor of anchorTags) {
-  //   if (anchor.textContent === `>>${currentId}`) {
-  //     count++;
-  //   }
-  // }
-
   return postIds;
 };
 
@@ -62,8 +53,8 @@ const Post = ({
     setReplyCount(count);
   }, []);
 
-  const blacklinks = replyCount.map((reply) => (
-    <a href={`#${reply}`} key={reply} className="post-info-backlink-circle"></a>
+  const blacklinks = replyCount.map((reply, index) => (
+    <a href={`#${reply}`} key={index} className="post-info-backlink-circle"></a>
   ));
 
   const handelImgClick = () => {
@@ -71,7 +62,7 @@ const Post = ({
   };
 
   return (
-    <div className="post" key={number} id={`p${number.toString()}`}>
+    <div className="post" key={number} id={`p${number}`}>
       <div className="post-info">
         <span className="post-info-name">{name}</span>
         <span className="post-info-date">{date}</span>

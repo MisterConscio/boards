@@ -7,15 +7,19 @@ type Props = {
   label: string;
   color?: "firebrick" | "seagreen" | undefined;
   onClick?: MouseEventHandler;
+  size?: "small" | "big" | undefined;
 };
 
-const Button = ({ type = "button", label, color, onClick }: Props) => {
+const Button = ({ type = "button", label, color, onClick, size }: Props) => {
   return (
     <button
       className="btn"
       onClick={onClick}
       type={type}
-      style={{ backgroundColor: color }}
+      style={{
+        backgroundColor: color,
+        fontSize: size === "big" && "1.35rem",
+      }}
     >
       {label}
     </button>

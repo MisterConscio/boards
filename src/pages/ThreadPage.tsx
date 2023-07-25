@@ -27,7 +27,7 @@ const ThreadPage = () => {
 
   useEffect(() => {
     fetchThread(threadNumber.state);
-  }, [threadNumber.state]);
+  }, []);
 
   const fetchThread = async (numberid: string) => {
     try {
