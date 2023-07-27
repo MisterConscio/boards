@@ -61,7 +61,7 @@
 
 .post-info-backlink > * {
   font-size: 0.75rem;
-  margin-right: 0.35em;
+  margin-left: 0.35em;
 }
 
 .post-message {
@@ -83,10 +83,15 @@
 
 .post-message-img {
   cursor: pointer;
+  align-self: flex-start;
 }
 
 .post-message-full {
   flex-direction: column;
+}
+
+.post-message-full .post-message-img {
+  align-self: center;
 }
 
 .post-message-reply {

@@ -26,12 +26,3 @@
   display: flex;
   justify-content: space-between;
 }
-
-/*
-.modal-header > button {
-  background-color: firebrick;
-}
-
-.modal-header > button:hover {
-  background-color: crimson;
-}

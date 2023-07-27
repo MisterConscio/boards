@@ -24,12 +24,3 @@
   display: flex;
   justify-content: flex-end;
 }
-
-/*
-.form-submit-menu > button {
-  background-color: seagreen;
-}
-
-.form-submit-menu > button:hover {
-  background-color: lightseagreen;
-}
