@@ -1,4 +1,7 @@
 import { useEffect, useState } from "react";
+
+import { PostInfo } from "../pages/ThreadPage";
+
 import "../styles/Post.css";
 
 const getCurrentPostReferences = (currentId: number): string[] => {
@@ -20,36 +23,22 @@ const getCurrentPostReferences = (currentId: number): string[] => {
   return postIds;
 };
 
-type Props = {
-  name?: string;
-  image?: number;
-  ext: string;
-  number: number;
-  date: string;
-  comment: string;
-  tn_w: number;
-  tn_h: number;
-  width: number;
-  height: number;
-};
-
 const Post = ({
   name = "Anonymous",
-  image,
-  ext,
-  number,
-  date,
-  comment,
+  tim,
+  no,
+  now,
+  com,
   tn_w,
   tn_h,
-  width,
-  height,
-}: Props) => {
+  w,
+  h,
+}: PostInfo) => {
   const [fullImg, setFullImg] = useState(false);
   const [replyCount, setReplyCount] = useState<string[]>([]);
 
   useEffect(() => {
-    const count = getCurrentPostReferences(number);
+    const count = getCurrentPostReferences(no);
     setReplyCount(count);
   }, []);
 
@@ -62,19 +51,19 @@ const Post = ({
   };
 
   return (
-    <div className="post" key={number} id={`p${number}`}>
+    <div className="post" key={no} id={`p${no}`}>
       <div className="post-info">
         <span className="post-info-name">{name}</span>
-        <span className="post-info-date">{date}</span>
-        <span className="post-info-number">No. {number}</span>
+        <span className="post-info-date">{now}</span>
+        <span className="post-info-number">No. {no}</span>
         <div className="post-info-backlink">{blacklinks}</div>
       </div>
       <div className={`post-message ${fullImg && "post-message-full"}`}>
-        {image && (
+        {tim && (
           <a onClick={() => handelImgClick()} className="post-message-img">
             {fullImg ? (
               <img
-                src={`https://placehold.it/${width}x${height}`}
+                src={`https://placehold.it/${w}x${h}`}
                 alt="thumb"
                 loading="lazy"
               />
@@ -89,7 +78,7 @@ const Post = ({
         )}
         <div
           className="post-message-reply"
-          dangerouslySetInnerHTML={{ __html: comment }}
+          dangerouslySetInnerHTML={{ __html: com }}
         />
       </div>
     </div>

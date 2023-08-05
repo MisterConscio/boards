@@ -1,14 +1,13 @@
-import "../styles/ThreadPage.css";
-
-//import posts from "../data.json";
+import { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 
 import Post from "../components/Post";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import { useLocation } from "react-router-dom";
-import { useEffect, useState } from "react";
 
-type Thread = {
+import "../styles/ThreadPage.css";
+
+export type PostInfo = {
   no: number;
   now: string;
   name: string;
@@ -21,9 +20,13 @@ type Thread = {
   h: number;
 };
 
+type Thread = {
+  posts: PostInfo[];
+};
+
 const ThreadPage = () => {
   const threadNumber = useLocation();
-  const [thread, setThread] = useState<Thread[]>([]);
+  const [posts, setPosts] = useState<PostInfo[]>([]);
 
   useEffect(() => {
     fetchThread(threadNumber.state);
@@ -34,15 +37,12 @@ const ThreadPage = () => {
       const response = await fetch(
         `https://a.4cdn.org/g/thread/${numberid}.json`
       );
-      if (!response.ok) {
-        throw new Error("Fetch response was not ok.");
+      const threadData: Thread = await response.json();
+      const postData: PostInfo[] = [];
+      for (const posts of threadData.posts) {
+        postData.push(posts);
       }
-      const threadData: Promise<any> = await response.json();
-      const postData: Thread[] = [];
-      for (const post of threadData.posts) {
-        postData.push(post);
-      }
-      setThread(postData);
+      setPosts(postData);
     } catch (error) {
       console.error("ERROR:", error);
     }
@@ -52,20 +52,8 @@ const ThreadPage = () => {
     <>
       <Header pageType="thread" />
       <main className="post-content">
-        {thread.map((post) => (
-          <Post
-            key={post.no}
-            number={post.no}
-            name={post.name}
-            date={post.now}
-            comment={post.com}
-            image={post.tim}
-            ext={post.ext}
-            tn_w={post.tn_w}
-            tn_h={post.tn_h}
-            width={post.w}
-            height={post.h}
-          />
+        {posts.map((post) => (
+          <Post key={post.no} {...post} />
         ))}
       </main>
       <Footer />

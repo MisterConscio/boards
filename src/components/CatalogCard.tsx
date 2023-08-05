@@ -1,40 +1,26 @@
 import { Link } from "react-router-dom";
+
+import { Threads } from "./CatalogList";
+
 import "../styles/ThreadCard.css";
 
-type Props = {
-  subject: string;
-  commentary: string;
-  replies: number;
-  images: number;
-  id: number;
-  thumbWidth: number;
-  thumbHeight: number;
-};
-
 const CatalogCard = ({
-  subject,
-  commentary,
+  no,
+  sub,
+  com,
+  tn_w,
+  tn_h,
   replies,
   images,
-  id,
-  thumbWidth,
-  thumbHeight,
-}: Props) => {
-  //function randomImageRes() {
-  //  let randWith = Math.floor(Math.random() * 150 + 100);
-  //  let randHeight = Math.floor(Math.random() * 100 + 150);
-
-  //  return `${randWith}x${randHeight}`;
-  //}
-
+}: Threads) => {
   return (
     <div className="thread-card">
       <div className="thread-card-thumb">
-        <Link to={`/thread/${id}`} state={id}>
+        <Link to={`/thread/${no}`} state={no}>
           <img
-            src={`https://placehold.co/${thumbWidth}x${thumbHeight}/jpg`}
-            width={thumbWidth}
-            height={thumbHeight}
+            src={`https://placehold.co/${tn_w}x${tn_h}/jpg`}
+            width={tn_w}
+            height={tn_h}
             alt="Thumbnail"
             loading="lazy"
           />
@@ -44,10 +30,10 @@ const CatalogCard = ({
         R: <strong>{replies.toString()}</strong> / I:{" "}
         <strong>{images.toString()}</strong>
       </span>
-      <h4 className="thread-card-title">{subject}</h4>
+      <h4 className="thread-card-title">{sub}</h4>
       <p
         className="thread-card-commentary"
-        dangerouslySetInnerHTML={{ __html: commentary }}
+        dangerouslySetInnerHTML={{ __html: com }}
       />
     </div>
   );
