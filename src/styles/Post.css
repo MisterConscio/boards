@@ -4,6 +4,7 @@
 
   border: 1px solid dimgrey;
   border-radius: 0.75rem;
+  font-size: 0.95rem;
 
   margin-bottom: 1rem;
   transition: background-color 100ms;
