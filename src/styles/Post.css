@@ -52,12 +52,12 @@
   height: 1em;
   border-radius: 50%;
   background-color: transparent;
-  border: 2px solid crimson;
+  border: 2px solid deepskyblue;
   cursor: pointer;
 }
 
 .post-info-backlink-circle:hover {
-  background-color: crimson;
+  background-color: deepskyblue;
 }
 
 .post-info-backlink > * {
