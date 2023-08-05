@@ -55,6 +55,9 @@ const ThreadPage = () => {
         {posts.map((post) => (
           <Post key={post.no} {...post} />
         ))}
+        <button type="button" className="new-reply-btn">
+          <span>+</span>
+        </button>
       </main>
       <Footer />
     </>

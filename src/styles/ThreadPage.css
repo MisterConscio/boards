@@ -2,3 +2,35 @@
   width: min(100% - 3rem, 90ch);
   margin-inline: auto;
 }
+
+.new-reply-btn {
+  position: fixed;
+  display: inline-block;
+  bottom: 2rem;
+  right: 2rem;
+
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 0 0 10px rgba(173, 216, 230, 0.5);
+  padding: 0.25rem;
+
+  font-size: 4rem;
+  line-height: 0;
+  text-decoration: none;
+  text-align: center;
+  overflow: none;
+  cursor: pointer;
+}
+
+.new-reply-btn:before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 100%;
+}
+
+.new-reply-btn span {
+  display: inline-block;
+  vertical-align: middle;
+}
